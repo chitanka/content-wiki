@@ -14,7 +14,7 @@ Title: Таблица
 
 Ще бъде форматирано като:
 
-<table class="content">
+<table style="width: 40em; margin: 0 auto">
 <caption>Примерна таблица</caption>
 <tr><td>Клетка 1.1</td><td>Клетка 1.2</td></tr>
 <tr><td>Клетка 2.1</td><td>Клетка 2.2</td></tr>
@@ -33,7 +33,7 @@ Title: Таблица
 
 Ще бъде форматирано като:
 
-<table class="content">
+<table style="width: 40em; margin: 0 auto">
 <tr><th>Колона 1</th><th>Колона 2</th></tr>
 <tr><td>Клетка 1.1</td><td>Клетка 1.2</td></tr>
 <tr><td>Клетка 2.1</td><td>Клетка 2.2</td></tr>
@@ -75,7 +75,7 @@ Title: Таблица
 
 Ще бъде форматирано като:
 
-<table class="content">
+<table style="width: 40em; margin: 0 auto">
 <tr><th>Първа колона</th><th>Втора колона</th></tr>
 <tr><td align="left">Ляво</td><td align="center">Центрирано</td></tr>
 <tr><td align="right">Дясно</td><td>По подразбиране</td></tr>
@@ -102,7 +102,7 @@ Title: Таблица
 
 Ще бъде форматирано като:
 
-<table class="content">
+<table style="width: 40em; margin: 0 auto">
 <caption>Пример за сливане</caption>
 <tr><th>Първа колона</th><th>Втора колона</th><th>Трета колона</th></tr>
 <tr><td colspan="2" align="center">Сливане на колони</td><td align="center">Центриран</td></tr>
