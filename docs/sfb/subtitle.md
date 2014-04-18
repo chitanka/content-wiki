@@ -1,4 +1,4 @@
-Title: docs/sfb/subtitle
+Title: Подзаглавие
 
 ## Описание
 
