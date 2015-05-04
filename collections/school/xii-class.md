@@ -165,6 +165,6 @@ Title: Библиотека за ученика — XII клас
 
 * [Иван Радоев](/person/ivan-radoev)
 * Стефан Цанев
-* Георги Данаилов
+* Георги Данаилов ([„Солунските съзаклятници“](http://www.slovo.bg/showwork.php3?AuID=23&WorkID=4199&Level=1))
 * [Станислав Стратиев](/person/stanislav-stratiev)
 * [Йордан Радичков](/person/jordan-radichkov)
