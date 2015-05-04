@@ -36,16 +36,16 @@ Title: Библиотека за ученика — XII клас
 
 ## Никола Фурнаджиев
 
-* [Стихосбирка „Пролетен вятър“](http://www.litclub.bg/library/bg/furnajiev/index.html)
+* Стихосбирка [„Пролетен вятър“](http://www.litclub.bg/library/bg/furnajiev/index.html)
 
 ## Асен Разцветников
 
-* [Стихосбирка „Жертвени клади“](http://chitanka.info/book/4355-zhertveni-kladilirika) ([„Молитва“](/text/24606), [„Кървави вопли“](/text/24607), [„Каин“](/text/24608), [„Сред запустение“](/text/24609), [„Удавници“](/text/24610), [„Безсмъртни“](/text/24611))
+* Стихосбирка [„Жертвени клади“](http://chitanka.info/book/4355-zhertveni-kladilirika) ([„Молитва“](/text/24606), [„Кървави вопли“](/text/24607), [„Каин“](/text/24608), [„Сред запустение“](/text/24609), [„Удавници“](/text/24610), [„Безсмъртни“](/text/24611))
 
 ## Антон Страшимиров
 
-* [„Хоро“](/text/5306)
-* [„Вампир“](http://www.znam.bg/com/action/showBook?bookID=1409&sectionID=5)
+* Романът [„Хоро“](/text/5306)
+* Драмата [„Вампир“](http://www.znam.bg/com/action/showBook?bookID=1409&sectionID=5)
 
 ## Атанас Далчев
 
