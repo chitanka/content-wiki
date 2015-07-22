@@ -13,3 +13,4 @@ Title: Библиотека за ученика
 * [X клас](/collections/school/x-class)
 * [XI клас](/collections/school/xi-class)
 * [XII клас](/collections/school/xii-class)
+* Държавен зрелостен изпит](/collections/school/dzi)
