@@ -37,7 +37,8 @@ Title: Библиотека за ученика — IX клас
     * [„Ланселот, рицарят на каруцата“](/book/346)
     * [„Персевал, или Разказ за Граала“](/book/6969)
 * Роджър Ланслин Грийн — [„Крал Артур“](/book/2659)
-* Средновековна провансалска лирика — Поезията на: [Гийом IX дьо Поатие](/person/guilhem_ix_de_peitieus), [Жофре Рюдел](/person/jaufre_rudel), [Бернар дьо Вентадур](/person/bernard_de_ventadour), [Маркабрю](/person/marcabru), [Бернар Марти](/person/bernart_marti), [Гас Брюле](/person/gace_brule), [Тибо дьо Шампан](/person/thibaut_de_champagne), [Гийом дьо Машо](/person/guillaume_de_machaut)
+* [„Снегът зеленина сънува. Антология на провансалската лирика“](http://chitanka.info/book/7119-snegyt-zelenina-synuva)
+* Из [„Френска поезия“](http://chitanka.info/book/3925-frenska-poezia): [Гийом IX дьо Поатие](/person/guilhem_ix_de_peitieus), [Жофре Рюдел](/person/jaufre_rudel), [Бернар дьо Вентадур](/person/bernard_de_ventadour), [Маркабрю](/person/marcabru), [Бернар Марти](/person/bernart_marti), [Гас Брюле](/person/gace_brule), [Тибо дьо Шампан](/person/thibaut_de_champagne), [Гийом дьо Машо](/person/guillaume_de_machaut)
 
 ## Старобългарска литература
 
