@@ -18,6 +18,7 @@ Title: За Моята библиотека
 
 * [ГДБОП](http://chitanka.info/operation-mindcrime.html) — 21 юни, 2010 г.
 * [АБК](http://forum.chitanka.info/topic3927.html) — 15 юли, 2013 г.
+* [АБК](http://forum.chitanka.info/topic5006.html) — 12 март, 2015 г.
 
 ## Добавяне на нови произведения
 
