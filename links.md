@@ -128,7 +128,6 @@ Title: Връзки
 * [Издателство „Изток-Запад“](http://www.iztok-zapad.eu/)
 * [Издателство „Летера“](http://www.lettera.bg/)
 * [Издателска къща „ЛИК“](http://www.lik-bg.com/)
-* [Издателство „Обсидиан“](http://www.obsidian.bg/)
 * [Книгоиздателство „Перо“](http://www.pero-publishing.com/)
 * [Издателство „Фют“](http://www.fiut.bg/)
 
