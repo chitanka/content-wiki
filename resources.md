@@ -11,6 +11,7 @@ Title: Ресурси
 
 
 ## Архиви
+### Торенти
 
 Дата             | Файл                                                                                                               | Кратко описание
 ---------------- | ------------------------------------------------------------------------------------------------------------------ | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -22,6 +23,59 @@ Title: Ресурси
 13 декември 2010 | [chitanka.info-static-2010-12-13](http://static.chitanka.info/tor/chitanka.info-static-2010-12-13.torrent)         | Статична версия на „Моята библиотека“ към 13 декември 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
 24 май 2010      | [chitanka.info-static-2010-05-24](http://static.chitanka.info/tor/chitanka.info-static-2010-05-24.torrent)         | Статична версия на „Моята библиотека“ към 24 май 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
 17 януари 2010   | [chitanka.info-static-2010-01-17](http://static.chitanka.info/tor/chitanka.info-static-2010-01-17.torrent)         | Статична версия на „Моята библиотека“ към 17 януари 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
+
+### FB2, EPUB и MOBI формат
+
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+</head>
+<body>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Период</th>
+    <th class="tg-yw4l">FB2.num</th>
+    <th class="tg-yw4l">EPUB.num</th>
+    <th class="tg-yw4l">MOBI.num</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">декември 2015<br>59 произведения<br>59 нови, 0 корекции</td>
+    <td class="tg-yw4l">download<br>29.9 MiB</td>
+    <td class="tg-yw4l">download<br>33.0 MiB</td>
+    <td class="tg-yw4l">download<br>53.1 MiB</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">обобщен до декември 2015 год. включително<br>съдържа 36046 произведения</td>
+    <td class="tg-yw4l">magnet link<br>torrent<br>2.45 GiB</td>
+    <td class="tg-yw4l">magnet link<br>torrent<br>3.16 GiB</td>
+    <td class="tg-yw4l">magnet link<br>torrent<br>7.06 GiB</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">януари 2016<br>88 произведения<br>87 нови, 1 корекция</td>
+    <td class="tg-yw4l">download<br>32.2 MiB</td>
+    <td class="tg-yw4l">download<br>36.4 MiB</td>
+    <td class="tg-yw4l">download<br>65.8 MiB</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">февруари 2016<br>147 произведения<br>110 нови, 37 корекции</td>
+    <td class="tg-yw4l">download<br>33.4 MiB</td>
+    <td class="tg-yw4l">download<br>38.6 MiB</td>
+    <td class="tg-yw4l">download<br>67.9 MiB</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">март 2016<br>111 произведения<br>111 нови, 0 корекции</td>
+    <td class="tg-yw4l">download<br>29.2 MiB</td>
+    <td class="tg-yw4l">download<br>32.8 MiB</td>
+    <td class="tg-yw4l">download<br>58.4 MiB</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">chitanka.info.filter<br>март 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.03.zip">download</a></td>
+  </tr>
+</table>
+</body>
+
+</html>
 
 
 ## Огледала
