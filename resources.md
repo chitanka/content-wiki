@@ -9,7 +9,7 @@ Title: Ресурси
 * [IDI Spell Checker](http://freeplace.info/ididictionary/bulgarian_spell_checker/)
 * [MyLib to FB2](http://www.sfbg.us/mylibtofb2/)
 
-
+-------------------------------------
 ## Архиви
 ### Торенти
 
@@ -80,7 +80,7 @@ Title: Ресурси
 
 </html>
 
-
+-------------------------------------
 ## Огледала
 
 * [read.rsys.eu](http://read.rsys.eu/)
