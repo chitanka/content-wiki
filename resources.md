@@ -1,6 +1,6 @@
 Title: Ресурси
 
-## Инструменти
+## __Инструменти__
 
 * [Проверител на SFB за грешки](http://tools.chitanka.info/sfb-check/)
 * [Пясъчник за игра със SFB](/sandbox)
@@ -10,7 +10,7 @@ Title: Ресурси
 * [MyLib to FB2](http://www.sfbg.us/mylibtofb2/)
 
 -------------------------------------
-## Архиви
+## __Архиви__
 ### [FB2, EPUB и MOBI формат](http://forum.chitanka.info/topic3415.html)
 За повече информация щракнете върху връзката по-горе.
 
@@ -123,7 +123,7 @@ Title: Ресурси
 17 януари 2010   | [chitanka.info-static-2010-01-17](http://static.chitanka.info/tor/chitanka.info-static-2010-01-17.torrent)         | Статична версия на „Моята библиотека“ към 17 януари 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
 
 -------------------------------------
-## Огледала
+## __Огледала__
 
 * [read.rsys.eu](http://read.rsys.eu/)
 * [freeplace.info](http://freeplace.info/proxy/browse.php?u=http://clivl6rf3vft7ihw.onion)
