@@ -15,7 +15,6 @@ Title: Ресурси
 За повече информация щракнете върху връзката по-горе.
 
 <table class="table table-striped">
-  <caption>Архив с файлове, надписани с номера</caption>
   <tr>
     <th>Период</th>
     <th>FB2.num</th>
@@ -64,7 +63,7 @@ Title: Ресурси
 <br/>
 <br/>
 
-<table>
+<table class="table table-striped">
   <tr>
     <th>Период</th>
     <th>FB2.name</th>
@@ -77,7 +76,7 @@ Title: Ресурси
     <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.name-2015.12.zip">download</a><br/>33.3 MiB</td>
     <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2015.12.zip">download</a><br/>53.4 MiB</td>
   </tr>
-  <tr bgcolor="lightpink">
+  <tr class="danger">
     <td>обобщен до декември 2015 год. включително<br>съдържа 36046 произведения</td>
     <td><a href="magnet:?xt=urn:btih:1253428263fbfa469988f347beb5a2ead6cd95ca&dn=chitanka.info.fb2.name-2015.12-cumulative-ArenaBG">magnet link</a><br/>
 			<a href="http://arenabg.com/svali-torent-chitanka-info-fb2-name-2015-12-cumulative-570794/" target="_blank">torrent</a><br/>2.45 GiB</td>
