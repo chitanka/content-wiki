@@ -14,7 +14,7 @@ Title: Ресурси
 ### [FB2, EPUB и MOBI формат](http://forum.chitanka.info/topic3415.html)
 За повече информация щракнете върху връзката по-горе.
 
-<table class="table table-stripped">
+<table class="table table-striped">
   <tr>
     <th>Период</th>
     <th>FB2.num</th>
