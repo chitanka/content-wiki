@@ -15,6 +15,7 @@ Title: Ресурси
 За повече информация щракнете върху връзката по-горе.
 
 <table class="table table-striped">
+  <caption>Архив с файлове, надписани с номера</caption>
   <tr>
     <th>Период</th>
     <th>FB2.num</th>
