@@ -11,19 +11,6 @@ Title: Ресурси
 
 -------------------------------------
 ## Архиви
-### Торенти
-
-Дата             | Файл                                                                                                               | Кратко описание
----------------- | ------------------------------------------------------------------------------------------------------------------ | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1 април 2016     | [chitanka-virtual-machine-2016-04-01](http://files.chitanka.info/chitanka.01.04.2016.torrent)                      | Виртуална машина на „Моята библиотека“ към 1 април 2016 г. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
-13 юли 2015      | [chitanka-virtual-machine-2015-07-13](http://files.chitanka.info/chitanka.13.07.2015.torrent)                      | Виртуална машина на „Моята библиотека“ към 13 юли 2015 г. В торента ще намерите допълнителна помощна информация. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
-1 март 2014      | [chitanka-virtual-machine-2014-03-01](http://static.chitanka.info/tor/chitanka-virtual-machine-2014-03-01.torrent) | Виртуална машина на „Моята библиотека“ към 1 март 2014 г. В торента ще намерите допълнителна помощна информация. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
-8 август 2013    | [chitanka-virtual-machine-2013-08-08](http://static.chitanka.info/tor/chitanka-virtual-machine-2013-08-08.torrent) | Виртуална машина на „Моята библиотека“ към 8 август 2013 г. В торента ще намерите допълнителна помощна информация. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
-3 юни 2012       | [chitanka-for-server-2012-06-03](http://static.chitanka.info/tor/chitanka-for-server-2012-06-03.torrent)           | Динамична версия на „Моята библиотека“ към 3 юни 2012 г. Във файла INSTALL.txt е обяснено как се инсталира. [Пускайте коментарите си във форума.](http://forum.chitanka.info/chitanka-download-own-server-t3178.html)
-13 декември 2010 | [chitanka.info-static-2010-12-13](http://static.chitanka.info/tor/chitanka.info-static-2010-12-13.torrent)         | Статична версия на „Моята библиотека“ към 13 декември 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
-24 май 2010      | [chitanka.info-static-2010-05-24](http://static.chitanka.info/tor/chitanka.info-static-2010-05-24.torrent)         | Статична версия на „Моята библиотека“ към 24 май 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
-17 януари 2010   | [chitanka.info-static-2010-01-17](http://static.chitanka.info/tor/chitanka.info-static-2010-01-17.torrent)         | Статична версия на „Моята библиотека“ към 17 януари 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
-
 ### FB2, EPUB и MOBI формат
 
 <html lang="en-US">
@@ -79,6 +66,19 @@ Title: Ресурси
 </body>
 
 </html>
+
+### Торенти
+
+Дата             | Файл                                                                                                               | Кратко описание
+---------------- | ------------------------------------------------------------------------------------------------------------------ | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 април 2016     | [chitanka-virtual-machine-2016-04-01](http://files.chitanka.info/chitanka.01.04.2016.torrent)                      | Виртуална машина на „Моята библиотека“ към 1 април 2016 г. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
+13 юли 2015      | [chitanka-virtual-machine-2015-07-13](http://files.chitanka.info/chitanka.13.07.2015.torrent)                      | Виртуална машина на „Моята библиотека“ към 13 юли 2015 г. В торента ще намерите допълнителна помощна информация. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
+1 март 2014      | [chitanka-virtual-machine-2014-03-01](http://static.chitanka.info/tor/chitanka-virtual-machine-2014-03-01.torrent) | Виртуална машина на „Моята библиотека“ към 1 март 2014 г. В торента ще намерите допълнителна помощна информация. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
+8 август 2013    | [chitanka-virtual-machine-2013-08-08](http://static.chitanka.info/tor/chitanka-virtual-machine-2013-08-08.torrent) | Виртуална машина на „Моята библиотека“ към 8 август 2013 г. В торента ще намерите допълнителна помощна информация. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
+3 юни 2012       | [chitanka-for-server-2012-06-03](http://static.chitanka.info/tor/chitanka-for-server-2012-06-03.torrent)           | Динамична версия на „Моята библиотека“ към 3 юни 2012 г. Във файла INSTALL.txt е обяснено как се инсталира. [Пускайте коментарите си във форума.](http://forum.chitanka.info/chitanka-download-own-server-t3178.html)
+13 декември 2010 | [chitanka.info-static-2010-12-13](http://static.chitanka.info/tor/chitanka.info-static-2010-12-13.torrent)         | Статична версия на „Моята библиотека“ към 13 декември 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
+24 май 2010      | [chitanka.info-static-2010-05-24](http://static.chitanka.info/tor/chitanka.info-static-2010-05-24.torrent)         | Статична версия на „Моята библиотека“ към 24 май 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
+17 януари 2010   | [chitanka.info-static-2010-01-17](http://static.chitanka.info/tor/chitanka.info-static-2010-01-17.torrent)         | Статична версия на „Моята библиотека“ към 17 януари 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
 
 -------------------------------------
 ## Огледала
