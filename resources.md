@@ -11,21 +11,15 @@ Title: Ресурси
 
 -------------------------------------
 ## __Архиви__
-### [FB2, EPUB и MOBI формат](http://forum.chitanka.info/topic3415.html)
-За повече информация щракнете върху връзката по-горе.
-
+За повече информация: [FB2, EPUB и MOBI формат](http://forum.chitanka.info/topic3415.html)<br/>
+<br/>
+Вариант "num"
 <table class="table table-striped">
   <tr>
     <th>Период</th>
     <th>FB2.num</th>
     <th>EPUB.num</th>
     <th>MOBI.num</th>
-  </tr>
-  <tr>
-    <td>декември 2015<br>59 произведения (59 нови, 0 корекции)</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2015.12.zip">download</a><br/>29.9 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.num-2015.12.zip">download</a><br/>33.0 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2015.12.zip">download</a><br/>53.1 MiB</td>
   </tr>
   <tr class="danger">
     <td>обобщен до декември 2015 год. включително<br>съдържа 36046 произведения</td>
@@ -56,25 +50,17 @@ Title: Ресурси
   </tr>
   <tr>
     <td>chitanka.info.filter<br>март 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.03.zip">download</a></td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.03.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
-
 <br/>
-<br/>
-
+Вариант "name"
 <table class="table table-striped">
   <tr>
     <th>Период</th>
     <th>FB2.name</th>
     <th>EPUB.name</th>
     <th>MOBI.name</th>
-  </tr>
-  <tr>
-    <td>декември 2015<br>59 произведения<br>59 нови, 0 корекции</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2015.12.zip">download</a><br/>29.9 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.name-2015.12.zip">download</a><br/>33.3 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2015.12.zip">download</a><br/>53.4 MiB</td>
   </tr>
   <tr class="danger">
     <td>обобщен до декември 2015 год. включително<br>съдържа 36046 произведения</td>
@@ -105,11 +91,13 @@ Title: Ресурси
   </tr>
   <tr>
     <td>chitanka.info.filter<br>март 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.03.zip">download</a></td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.03.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
+<br/>
 
-### Торенти
+-------------------------------------
+## __Торенти__
 
 Дата             | Файл                                                                                                               | Кратко описание
 ---------------- | ------------------------------------------------------------------------------------------------------------------ | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -121,6 +109,8 @@ Title: Ресурси
 13 декември 2010 | [chitanka.info-static-2010-12-13](http://static.chitanka.info/tor/chitanka.info-static-2010-12-13.torrent)         | Статична версия на „Моята библиотека“ към 13 декември 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
 24 май 2010      | [chitanka.info-static-2010-05-24](http://static.chitanka.info/tor/chitanka.info-static-2010-05-24.torrent)         | Статична версия на „Моята библиотека“ към 24 май 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
 17 януари 2010   | [chitanka.info-static-2010-01-17](http://static.chitanka.info/tor/chitanka.info-static-2010-01-17.torrent)         | Статична версия на „Моята библиотека“ към 17 януари 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
+
+<br/>
 
 -------------------------------------
 ## __Огледала__
