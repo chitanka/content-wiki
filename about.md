@@ -75,7 +75,5 @@ _Моята библиотека_ се задвижва от [скриптове
 
 ## Библиотеката в други сайтове
 
-* [identi.ca](http://chitanka.info/identica)
-* [Twitter](http://chitanka.info/twitter)
 * [Google+](http://chitanka.info/+)
 * [Facebook](http://chitanka.info/facebook)
