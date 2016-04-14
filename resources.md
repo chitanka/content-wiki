@@ -10,7 +10,7 @@ Title: Ресурси
 * [MyLib to FB2](http://www.sfbg.us/mylibtofb2/)
 
 -------------------------------------
-## __Архиви__
+<h2 id="archives"><strong>Архиви</strong></h2>
 За повече информация: [FB2, EPUB и MOBI формат](http://forum.chitanka.info/topic3415.html)<br/>
 <br/>
 Вариант "num"
@@ -32,21 +32,21 @@ Title: Ресурси
   </tr>
   <tr>
     <td>януари 2016<br>88 произведения (87 нови, 1 корекция)</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.01.zip">download</a><br/>32.2 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.01.zip">download</a><br/>36.4 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.01.zip">download</a><br/>65.8 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.01.zip">download</a><br/>32.2 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.01.zip">download</a><br/>36.4 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.01.zip">download</a><br/>65.8 MiB</td>
   </tr>
   <tr>
     <td>февруари 2016<br>147 произведения (110 нови, 37 корекции)</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.02.zip">download</a><br/>33.4 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.02.zip">download</a><br/>38.6 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.02.zip">download</a><br/>67.9 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.02.zip">download</a><br/>33.4 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.02.zip">download</a><br/>38.6 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.02.zip">download</a><br/>67.9 MiB</td>
   </tr>
   <tr>
     <td>март 2016<br>111 произведения (111 нови, 0 корекции)</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.03.zip">download</a><br/>29.2 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.03.zip">download</a><br/>32.8 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.03.zip">download</a><br/>58.4 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.03.zip">download</a><br/>29.2 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.03.zip">download</a><br/>32.8 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.03.zip">download</a><br/>58.4 MiB</td>
   </tr>
   <tr>
     <td>chitanka.info.filter<br>март 2016</td>
@@ -73,21 +73,21 @@ Title: Ресурси
   </tr>
   <tr>
     <td>януари 2016<br>88 произведения<br>87 нови, 1 корекция</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.01.zip">download</a><br/>32.2 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.01.zip">download</a><br/>36.7 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.01.zip">download</a><br/>66.1 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.01.zip">download</a><br/>32.2 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.01.zip">download</a><br/>36.7 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.01.zip">download</a><br/>66.1 MiB</td>
   </tr>
   <tr>
     <td>февруари 2016<br>147 произведения<br>110 нови, 37 корекции</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.02.zip">download</a><br/>33.4 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.02.zip">download</a><br/>38.9 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.02.zip">download</a><br/>68.2 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.02.zip">download</a><br/>33.4 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.02.zip">download</a><br/>38.9 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.02.zip">download</a><br/>68.2 MiB</td>
   </tr>
   <tr>
     <td>март 2016<br>111 произведения<br>111 нови, 0 корекции</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.03.zip">download</a><br/>29.2 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.03.zip">download</a><br/>33.1 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.03.zip">download</a><br/>58.8 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.03.zip">download</a><br/>29.2 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.03.zip">download</a><br/>33.1 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.03.zip">download</a><br/>58.8 MiB</td>
   </tr>
   <tr>
     <td>chitanka.info.filter<br>март 2016</td>
