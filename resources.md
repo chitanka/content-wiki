@@ -11,7 +11,7 @@ Title: Ресурси
 
 -------------------------------------
 <h2 id="archives"><strong>Архиви</strong></h2>
-За повече информация: <u>[FB2, EPUB и MOBI формат](http://forum.chitanka.info/topic3415.html)</u><br/>
+За повече информация: <u>[Описание на архивите и chitanka.info.filter](https://pechkov.chitanka.info/#archives)</u><br/>
 <br/>
 Вариант "num"
 <table class="table table-striped">
