@@ -7,7 +7,6 @@ Title: Ресурси
 * [Генератор на инфоблокове за нови книги и произведения](http://tools.chitanka.info/infogen/)
 * [Генератор на специални знаци](http://tools.chitanka.info/specialchar/)
 * [IDI Spell Checker](http://freeplace.info/ididictionary/bulgarian_spell_checker/)
-* [MyLib to FB2](http://www.sfbg.us/mylibtofb2/)
 
 -------------------------------------
 <h2 id="archives"><strong>Архиви</strong></h2>
