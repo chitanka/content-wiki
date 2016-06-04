@@ -54,8 +54,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.04.zip">download</a><br/>57.4 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>април 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.04.zip">download</a><br/>16.7 MiB</td>
+    <td><b>май 2016</b><br>122 произведения (112 нови, 10 корекции)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.05.zip">download</a><br/>45.9 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.05.zip">download</a><br/>52.5 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.05.zip">download</a><br/>98.9 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>май 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.05.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
 <br/>
@@ -101,8 +107,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.04.zip">download</a><br/>57.8 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>април 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.04.zip">download</a><br/>16.7 MiB</td>
+    <td><b>май 2016</b><br>122 произведения (112 нови, 10 корекции)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.05.zip">download</a><br/>46.3 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.05.zip">download</a><br/>52.8 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.05.zip">download</a><br/>99.3 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>май 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.05.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
 <br/>
