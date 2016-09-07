@@ -72,8 +72,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.07.zip">download</a><br/>94.0 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>юли 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.07.zip">download</a><br/>16.7 MiB</td>
+    <td><b>август 2016</b><br>147 произведения (139 нови, 8 корекции)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.08.zip">download</a><br/>20.6 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.08.zip">download</a><br/>23.7 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.08.zip">download</a><br/>39.3 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>август 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.08.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
 <br/>
@@ -137,8 +143,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.07.zip">download</a><br/>94.4 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>юли 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.07.zip">download</a><br/>16.7 MiB</td>
+    <td><b>август 2016</b><br>147 произведения (139 нови, 8 корекции)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.08.zip">download</a><br/>21.0 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.08.zip">download</a><br/>24.0 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.08.zip">download</a><br/>39.6 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>август 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.08.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
 <br/>
