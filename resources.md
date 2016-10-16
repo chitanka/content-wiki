@@ -78,8 +78,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.08.zip">download</a><br/>39.3 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>август 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.08.zip">download</a><br/>16.7 MiB</td>
+    <td><b>септември 2016</b><br>16 произведения (15 нови, 1 корекция)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.09.zip">download</a><br/>15.8 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.09.zip">download</a><br/>16.8 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.09.zip">download</a><br/>22.0 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>септември 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.09.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
 <br/>
@@ -149,8 +155,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.08.zip">download</a><br/>39.6 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>август 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.08.zip">download</a><br/>16.7 MiB</td>
+    <td><b>септември 2016</b><br>16 произведения (15 нови, 1 корекция)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.09.zip">download</a><br/>16.1 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.09.zip">download</a><br/>17.1 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.09.zip">download</a><br/>22.3 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>септември 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.09.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
 <br/>
