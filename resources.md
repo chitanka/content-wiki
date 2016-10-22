@@ -7,10 +7,11 @@ Title: Ресурси
 * [Генератор на инфоблокове за нови книги и произведения](http://tools.chitanka.info/infogen/)
 * [Генератор на специални знаци](http://tools.chitanka.info/specialchar/)
 * [IDI Spell Checker](http://freeplace.info/ididictionary/bulgarian_spell_checker/)
+* [MyLib to FB2](http://www.sfbg.us/mylibtofb2/)
 
 -------------------------------------
 <h2 id="archives"><strong>Архиви</strong></h2>
-За повече информация: <u>[Описание на архивите и chitanka.info.filter](https://pechkov.chitanka.info/#archives)</u><br/>
+За повече информация: <u>[FB2, EPUB и MOBI формат](http://forum.chitanka.info/topic3415.html)</u><br/>
 <br/>
 Вариант "num"
 <table class="table table-striped">
@@ -60,7 +61,7 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.05.zip">download</a><br/>98.9 MiB</td>
   </tr>
   <tr>
-    <td><b>юни 2016</b><br>113 произведения (112 нови, 1 корекции)</td>
+    <td><b>юни 2016</b><br>113 произведения (112 нови, 1 корекция)</td>
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.06.zip">download</a><br/>28.5 MiB</td>
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.06.zip">download</a><br/>33.5 MiB</td>
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.06.zip">download</a><br/>62.3 MiB</td>
@@ -137,7 +138,7 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.05.zip">download</a><br/>99.3 MiB</td>
   </tr>
   <tr>
-    <td><b>юни 2016</b><br>113 произведения (112 нови, 1 корекции)</td>
+    <td><b>юни 2016</b><br>113 произведения (112 нови, 1 корекция)</td>
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.06.zip">download</a><br/>28.9 MiB</td>
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.06.zip">download</a><br/>33.8 MiB</td>
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.06.zip">download</a><br/>62.6 MiB</td>

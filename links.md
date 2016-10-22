@@ -105,7 +105,7 @@ Title: Връзки
 * [Палатков лагер зa пингвини](http://alvinbg.blogspot.com)
 * [armydreamer](http://ikosmos.blogspot.com) — говори се за фантастика
 * [Ana Bako](http://anabako.blogspot.com)
-* [Първи впечатления от последно прочетеното](http://zonkobg.blogspot.com) — седмичен книголюбител
+* [Дневник на чукча-читател](http://zonkobg.blogspot.com) — първи впечатления от последно прочетеното
 * [Йовко Ламбрев](http://yovko.net)
 * [Езикова култура за всекиго](http://ezikovedi.wordpress.com/) — Бойка Бъчварова и Борислав Георгиев
 * [Стефан Кръстев](http://cefules.net)
