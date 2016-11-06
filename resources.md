@@ -85,8 +85,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.09.zip">download</a><br/>22.0 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>септември 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.09.zip">download</a><br/>16.7 MiB</td>
+    <td><b>октомври 2016</b><br>22 произведения (2 нови, 0 корекции)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.10.zip">download</a><br/>17.1 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.10.zip">download</a><br/>18.2 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.10.zip">download</a><br/>27.3 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>октомври 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.10.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
 <br/>
@@ -156,14 +162,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.08.zip">download</a><br/>39.6 MiB</td>
   </tr>
   <tr>
-    <td><b>септември 2016</b><br>16 произведения (15 нови, 1 корекция)</td>
-    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.09.zip">download</a><br/>16.1 MiB</td>
-    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.09.zip">download</a><br/>17.1 MiB</td>
-    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.09.zip">download</a><br/>22.3 MiB</td>
+    <td><b>октомври 2016</b><br>22 произведения (22 нови, 0 корекции)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.10.zip">download</a><br/>17.4 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.10.zip">download</a><br/>18.5 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.10.zip">download</a><br/>27.6 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>септември 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.09.zip">download</a><br/>16.7 MiB</td>
+    <td><b>chitanka.info.filter</b><br>октомври 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.10.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
 <br/>
