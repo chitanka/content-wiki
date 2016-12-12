@@ -11,7 +11,7 @@ Title: Ресурси
 
 -------------------------------------
 <h2 id="archives"><strong>Архиви</strong></h2>
-За повече информация: <u>[FB2, EPUB и MOBI формат](http://forum.chitanka.info/topic3415.html)</u><br/>
+За повече информация: <u>[FB2, EPUB и MOBI формат](https://pechkov.chitanka.info/#archives)</u><br/>
 <br/>
 Вариант "num"
 <table class="table table-striped">
@@ -91,8 +91,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.10.zip">download</a><br/>27.3 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>октомври 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.10.zip">download</a><br/>16.7 MiB</td>
+    <td><b>ноември 2016</b><br>37 произведения (35 нови, 2 корекции)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.11.zip">download</a><br/>28.3 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.11.zip">download</a><br/>30.5 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.11.zip">download</a><br/>50.7 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>ноември 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.11.zip">download</a><br/>10.4 MiB</td>
   </tr>
 </table>
 <br/>
@@ -168,8 +174,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.10.zip">download</a><br/>27.6 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>октомври 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.10.zip">download</a><br/>16.7 MiB</td>
+    <td><b>ноември 2016</b><br>37 произведения (35 нови, 2 корекции)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.11.zip">download</a><br/>28.7 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.11.zip">download</a><br/>30.8 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.11.zip">download</a><br/>51.0 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>ноември 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.11.zip">download</a><br/>10.4 MiB</td>
   </tr>
 </table>
 <br/>
