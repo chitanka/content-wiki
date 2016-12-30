@@ -205,6 +205,5 @@ Title: Ресурси
 -------------------------------------
 ## __Огледала__
 
-* [read.rsys.eu](http://read.rsys.eu/)
 * [freeplace.info](http://freeplace.info/proxy/browse.php?u=http://clivl6rf3vft7ihw.onion)
 * [freeplace.info](http://freeplace.info/proxy/browse.php?u=http://chitanka.i2p)
