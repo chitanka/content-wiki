@@ -97,8 +97,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.11.zip">download</a><br/>50.7 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>ноември 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.11.zip">download</a><br/>10.4 MiB</td>
+    <td><b>декември 2016</b><br>36 произведения (36 нови, 0 корекции)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.12.zip">download</a><br/>28.4 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.12.zip">download</a><br/>31.8 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.12.zip">download</a><br/>54.2 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>декември 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.12.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
 <br/>
@@ -180,8 +186,14 @@ Title: Ресурси
     <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.11.zip">download</a><br/>51.0 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>ноември 2016</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.11.zip">download</a><br/>10.4 MiB</td>
+    <td><b>декември 2016</b><br>36 произведения (36 нови, 0 корекции)</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.12.zip">download</a><br/>28.7 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.12.zip">download</a><br/>32.2 MiB</td>
+    <td><a href="//pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.12.zip">download</a><br/>54.5 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>декември 2016</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2016.12.zip">download</a><br/>16.7 MiB</td>
   </tr>
 </table>
 <br/>
