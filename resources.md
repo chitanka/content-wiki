@@ -13,6 +13,8 @@ Title: Ресурси
 <h2 id="archives"><strong>Архиви</strong></h2>
 За повече информация: <u>[FB2, EPUB и MOBI формат](https://pechkov.chitanka.info/#archives)</u><br/>
 <br/>
+За притежателите на четци "Kindle": <u>[директория за директно сваляне](https://pechkov.chitanka.info/mobi)</u><br/>
+<br/>
 Вариант "num"
 <table class="table table-striped">
   <tr>
