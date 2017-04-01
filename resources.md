@@ -45,8 +45,14 @@ Title: Ресурси
     <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.01-02.zip">download</a><br/>127 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>февруари 2017</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2017.02.zip">download</a><br/>16.8 MiB</td>
+    <td><b>март 2017</b><br>28 произведения (28 нови, 0 корекции)</td>
+    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2017.03.zip">download</a><br/>22.3 MiB</td>
+    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.num-2017.03.zip">download</a><br/>27.8 MiB</td>
+    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.03.zip">download</a><br/>36.6 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>март 2017</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2017.03.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
@@ -80,8 +86,14 @@ Title: Ресурси
     <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.01-02.zip">download</a><br/>128 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>февруари 2017</td>
-    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2017.02.zip">download</a><br/>16.8 MiB</td>
+    <td><b>март 2017</b><br>28 произведения (28 нови, 0 корекции)</td>
+    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2017.03.zip">download</a><br/>22.6 MiB</td>
+    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.name-2017.03.zip">download</a><br/>28.1 MiB</td>
+    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.03.zip">download</a><br/>36.9 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>март 2017</td>
+    <td colspan="3" align="center"><a href="http://pechkov.chitanka.info/util/chitanka.info.filter-2017.03.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
