@@ -51,8 +51,14 @@ Title: Ресурси
     <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.num-2017.03.zip">download</a><br/>36.6 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>март 2017</td>
-    <td colspan="3" align="center"><a href="http://powerservice-bg.eu/chitanka.info/util/chitanka.info.filter-2017.03.zip">download</a><br/>16.8 MiB</td>
+    <td><b>април 2017</b><br>92 произведения (37 нови, 55 корекции)</td>
+    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.fb2.num-2017.04.zip">download</a><br/>40.0 MiB</td>
+    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.epub.num-2017.04.zip">download</a><br/>47.4 MiB</td>
+    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.num-2017.04.zip">download</a><br/>81.3 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>април 2017</td>
+    <td colspan="3" align="center"><a href="http://powerservice-bg.eu/chitanka.info/util/chitanka.info.filter-2017.04.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
@@ -92,8 +98,14 @@ Title: Ресурси
     <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.name-2017.03.zip">download</a><br/>36.9 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>март 2017</td>
-    <td colspan="3" align="center"><a href="http://powerservice-bg.eu/chitanka.info/util/chitanka.info.filter-2017.03.zip">download</a><br/>16.8 MiB</td>
+    <td><b>април 2017</b><br>92 произведения (37 нови, 55 корекции)</td>
+    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.fb2.name-2017.04.zip">download</a><br/>40.4 MiB</td>
+    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.epub.name-2017.04.zip">download</a><br/>47.8 MiB</td>
+    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.name-2017.04.zip">download</a><br/>81.6 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>април 2017</td>
+    <td colspan="3" align="center"><a href="http://powerservice-bg.eu/chitanka.info/util/chitanka.info.filter-2017.04.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
