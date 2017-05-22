@@ -55,3 +55,4 @@ Title: Описание на формата SFB
 * [Сюжетен разделител](/docs/sfb/divider);
 * [Бележка под линия](/docs/sfb/footnote);
 * [Ударение](/docs/sfb/acute);
+* [Изображения (картинка)](/docs/sfb/images).
