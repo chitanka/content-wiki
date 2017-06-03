@@ -117,7 +117,7 @@ Title: Ресурси
   </tr>
   <tr>
     <td><b>chitanka.info.filter</b><br>май 2017</td>
-    <td colspan="3" align="center"><a href="http://powerservice-bg.eu/chitanka.info/util/chitanka.info.filter-2017.05.zip">download</a><br/>16.8 MiB</td>
+    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.05.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
