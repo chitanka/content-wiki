@@ -58,9 +58,9 @@ Title: Ресурси
   </tr>
   <tr>
     <td><b>май 2017</b><br>37 произведения (37 нови, 0 корекции)</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.fb2.num-2017.05.zip">download</a><br/>28.1 MiB</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.epub.num-2017.05.zip">download</a><br/>36.5 MiB</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.num-2017.05.zip">download</a><br/>44.7 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2017.05.zip">download</a><br/>28.1 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2017.05.zip">download</a><br/>36.5 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.05.zip">download</a><br/>44.7 MiB</td>
   </tr>
   <tr>
     <td><b>chitanka.info.filter</b><br>май 2017</td>
