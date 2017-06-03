@@ -25,9 +25,9 @@ Title: Ресурси
   </tr>
   <tr>
     <td><b>декември 2016</b><br>36 произведения (36 нови, 0 корекции)</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.12.zip">download</a><br/>28.4 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.12.zip">download</a><br/>31.8 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.12.zip">download</a><br/>54.2 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2016.12.zip">download</a><br/>28.4 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2016.12.zip">download</a><br/>31.8 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2016.12.zip">download</a><br/>54.2 MiB</td>
   </tr>
   <tr class="danger">
     <td><b>обобщен до декември 2016 год. включително</b><br>съдържа 37256 произведения</td>
@@ -40,21 +40,21 @@ Title: Ресурси
   </tr>
   <tr>
     <td><b>януари и февруари 2017</b><br>368 произведения (335 нови, 33 корекции)</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2017.01-02.zip">download</a><br/>49.0 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.num-2017.01-02.zip">download</a><br/>63.2 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.01-02.zip">download</a><br/>127 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2017.01-02.zip">download</a><br/>49.0 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2017.01-02.zip">download</a><br/>63.2 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.01-02.zip">download</a><br/>127 MiB</td>
   </tr>
   <tr>
     <td><b>март 2017</b><br>28 произведения (28 нови, 0 корекции)</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.fb2.num-2017.03.zip">download</a><br/>22.3 MiB</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.epub.num-2017.03.zip">download</a><br/>27.8 MiB</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.num-2017.03.zip">download</a><br/>36.6 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2017.03.zip">download</a><br/>22.3 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2017.03.zip">download</a><br/>27.8 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.03.zip">download</a><br/>36.6 MiB</td>
   </tr>
   <tr>
     <td><b>април 2017</b><br>92 произведения (37 нови, 55 корекции)</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.fb2.num-2017.04.zip">download</a><br/>40.0 MiB</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.epub.num-2017.04.zip">download</a><br/>47.4 MiB</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.num-2017.04.zip">download</a><br/>81.3 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2017.04.zip">download</a><br/>40.0 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2017.04.zip">download</a><br/>47.4 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.04.zip">download</a><br/>81.3 MiB</td>
   </tr>
   <tr>
     <td><b>май 2017</b><br>37 произведения (37 нови, 0 корекции)</td>
@@ -78,9 +78,9 @@ Title: Ресурси
   </tr>
   <tr>
     <td><b>декември 2016</b><br>36 произведения (36 нови, 0 корекции)</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.12.zip">download</a><br/>28.7 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.12.zip">download</a><br/>32.2 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.12.zip">download</a><br/>54.5 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2016.12.zip">download</a><br/>28.7 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2016.12.zip">download</a><br/>32.2 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2016.12.zip">download</a><br/>54.5 MiB</td>
   </tr>
   <tr class="danger">
     <td><b>обобщен до декември 2016 год. включително</b><br>съдържа 37256 произведения</td>
@@ -93,21 +93,21 @@ Title: Ресурси
   </tr>
   <tr>
     <td><b>януари и февруари 2017</b><br>368 произведения (335 нови, 33 корекции)</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2017.01-02.zip">download</a><br/>49.3 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.epub.name-2017.01-02.zip">download</a><br/>63.5 MiB</td>
-    <td><a href="http://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.01-02.zip">download</a><br/>128 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2017.01-02.zip">download</a><br/>49.3 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2017.01-02.zip">download</a><br/>63.5 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.01-02.zip">download</a><br/>128 MiB</td>
   </tr>
   <tr>
     <td><b>март 2017</b><br>28 произведения (28 нови, 0 корекции)</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.fb2.name-2017.03.zip">download</a><br/>22.6 MiB</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.epub.name-2017.03.zip">download</a><br/>28.1 MiB</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.name-2017.03.zip">download</a><br/>36.9 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2017.03.zip">download</a><br/>22.6 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2017.03.zip">download</a><br/>28.1 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.03.zip">download</a><br/>36.9 MiB</td>
   </tr>
   <tr>
     <td><b>април 2017</b><br>92 произведения (37 нови, 55 корекции)</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.fb2.name-2017.04.zip">download</a><br/>40.4 MiB</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.epub.name-2017.04.zip">download</a><br/>47.8 MiB</td>
-    <td><a href="http://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.name-2017.04.zip">download</a><br/>81.6 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2017.04.zip">download</a><br/>40.4 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2017.04.zip">download</a><br/>47.8 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.04.zip">download</a><br/>81.6 MiB</td>
   </tr>
   <tr>
     <td><b>май 2017</b><br>37 произведения (37 нови, 0 корекции)</td>
