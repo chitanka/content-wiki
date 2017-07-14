@@ -123,13 +123,13 @@ Title: Ресурси
   </tr>
   <tr>
     <td><b>юни 2017</b><br>54 произведения (54 нови, 0 корекции)</td>
-    <td><a href="https://powerservice-bg.eu/chitanka.info/archives/chitanka.info.fb2.name-2017.06.zip">download</a><br/>16.0 MiB</td>
-    <td><a href="https://powerservice-bg.eu/chitanka.info/archives/chitanka.info.epub.name-2017.06.zip">download</a><br/>17.5 MiB</td>
-    <td><a href="https://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.name-2017.06.zip">download</a><br/>23.5 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2017.06.zip">download</a><br/>16.0 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2017.06.zip">download</a><br/>17.5 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.06.zip">download</a><br/>23.5 MiB</td>
   </tr>
   <tr>
     <td><b>chitanka.info.filter</b><br>юни 2017</td>
-    <td colspan="3" align="center"><a href="https://powerservice-bg.eu/chitanka.info/util/chitanka.info.filter-2017.06.zip">download</a><br/>16.8 MiB</td>
+    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.06.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
