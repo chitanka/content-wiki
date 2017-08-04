@@ -69,8 +69,14 @@ Title: Ресурси
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.06.zip">download</a><br/>23.2 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>юни 2017</td>
-    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.06.zip">download</a><br/>16.8 MiB</td>
+    <td><b>юли 2017</b><br>106 произведения (106 нови, 0 корекции)</td>
+    <td><a href="https://powerservice-bg.eu/chitanka.info/archives/chitanka.info.fb2.num-2017.07.zip">download</a><br/>20.4 MiB</td>
+    <td><a href="https://powerservice-bg.eu/chitanka.info/archives/chitanka.info.epub.num-2017.07.zip">download</a><br/>23.0 MiB</td>
+    <td><a href="https://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.num-2017.07.zip">download</a><br/>37.5 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>юли 2017</td>
+    <td colspan="3" align="center"><a href="https://powerservice-bg.eu/chitanka.info/util/chitanka.info.filter-2017.07.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
@@ -128,8 +134,14 @@ Title: Ресурси
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.06.zip">download</a><br/>23.5 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>юни 2017</td>
-    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.06.zip">download</a><br/>16.8 MiB</td>
+    <td><b>юли 2017</b><br>106 произведения (106 нови, 0 корекции)</td>
+    <td><a href="https://powerservice-bg.eu/chitanka.info/archives/chitanka.info.fb2.name-2017.07.zip">download</a><br/>20.7 MiB</td>
+    <td><a href="https://powerservice-bg.eu/chitanka.info/archives/chitanka.info.epub.name-2017.07.zip">download</a><br/>23.4 MiB</td>
+    <td><a href="https://powerservice-bg.eu/chitanka.info/archives/chitanka.info.mobi.name-2017.07.zip">download</a><br/>37.8 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>юли 2017</td>
+    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.07.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
