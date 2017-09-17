@@ -11,7 +11,7 @@ Title: Ресурси
 
 -------------------------------------
 <h2 id="archives"><strong>Архиви</strong></h2>
-За повече информация: <u>[FB2, EPUB и MOBI формат](http://pechkov.chitanka.info/#archives)</u><br/>
+Описание на архивите: <u>[FB2, EPUB и MOBI формат](http://pechkov.chitanka.info/#archives)</u><br/>
 <br/>
 За притежателите на четци "Kindle": <u>[директория за директно сваляне](http://pechkov.chitanka.info/mobi)</u><br/>
 <br/>
@@ -75,8 +75,14 @@ Title: Ресурси
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.07.zip">download</a><br/>37.5 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>юли 2017</td>
-    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.07.zip">download</a><br/>16.8 MiB</td>
+    <td><b>август 2017</b><br>14 произведения (14 нови, 0 корекции)</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2017.08.zip">download</a><br/>16.8 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2017.08.zip">download</a><br/>17.4 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.08.zip">download</a><br/>21.4 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>август 2017</td>
+    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.08.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
@@ -99,9 +105,9 @@ Title: Ресурси
     <td><a href="magnet:?xt=urn:btih:86ff483685619162c8321a524f5d5c12c6a85de4&dn=chitanka.info.fb2.name-2016.12-cumulative.zip">magnet link</a><br/>
 			<a href="http://zamunda.net/banan?id=500397" target="_blank">torrent</a><br/>2.66 GiB</td>
     <td><a href="magnet:?xt=urn:btih:e559af2d2a74a48ce78afee0b0c8be303fcc89f3&dn=chitanka.info.epub.name-2016.12-cumulative.zip">magnet link</a><br/>
-				<a href="http://zamunda.net/banan?id=500395" target="_blank">torrent</a><br/>3.42 GiB</td>
+			<a href="http://zamunda.net/banan?id=500395" target="_blank">torrent</a><br/>3.42 GiB</td>
     <td><a href="magnet:?xt=urn:btih:d8ed8c8681027fc2284eafca1e11411db24259ca&dn=chitanka.info.mobi.name-2016.12-cumulative.zip">magnet link</a><br/>
-				<a href="http://zamunda.net/banan?id=500401" target="_blank">torrent</a><br/>7.63 GiB</td>
+			<a href="http://zamunda.net/banan?id=500401" target="_blank">torrent</a><br/>7.63 GiB</td>
   </tr>
   <tr>
     <td><b>януари и февруари 2017</b><br>368 произведения (335 нови, 33 корекции)</td>
@@ -140,8 +146,14 @@ Title: Ресурси
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.07.zip">download</a><br/>37.8 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>юли 2017</td>
-    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.07.zip">download</a><br/>16.8 MiB</td>
+    <td><b>август 2017</b><br>14 произведения (14 нови, 0 корекции)</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2017.08.zip">download</a><br/>17.1 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2017.08.zip">download</a><br/>17.7 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.08.zip">download</a><br/>21.7 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>август 2017</td>
+    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.08.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
