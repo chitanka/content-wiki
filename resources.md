@@ -81,8 +81,14 @@ Title: Ресурси
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.08.zip">download</a><br/>21.4 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>август 2017</td>
-    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.08.zip">download</a><br/>16.8 MiB</td>
+    <td><b>септември 2017</b><br>34 произведения (34 нови, 0 корекции)</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2017.09.zip">download</a><br/>23.8 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2017.09.zip">download</a><br/>26.1 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2017.09.zip">download</a><br/>35.4 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>септември 2017</td>
+    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.09.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
@@ -152,8 +158,14 @@ Title: Ресурси
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.08.zip">download</a><br/>21.7 MiB</td>
   </tr>
   <tr>
-    <td><b>chitanka.info.filter</b><br>август 2017</td>
-    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.08.zip">download</a><br/>16.8 MiB</td>
+    <td><b>септември 2017</b><br>34 произведения (34 нови, 0 корекции)</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2017.09.zip">download</a><br/>24.1 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2017.09.zip">download</a><br/>26.4 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2017.09.zip">download</a><br/>35.7 MiB</td>
+  </tr>
+  <tr>
+    <td><b>chitanka.info.filter</b><br>септември 2017</td>
+    <td colspan="3" align="center"><a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.09.zip">download</a><br/>16.8 MiB</td>
   </tr>
 </table>
 <br/>
