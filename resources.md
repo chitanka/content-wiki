@@ -12,13 +12,10 @@ Title: Ресурси
 -------------------------------------
 <h2 id="archives"><strong>Архиви</strong></h2>
 <br/>
-<a href="http://pechkov.chitanka.info/#archives"><b><u>Описание на архивите в FB2, EPUB и MOBI формат</u></b></a>
-<br/><br/>
-<a href="http://pechkov.chitanka.info/mobi"><b><u>За притежателите на четци "Kindle" - директория за директно сваляне</u></b></a>
-<br/><br/>
-<a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.09.zip"><b><u>chitanka.info.filter - септември 2017</u></b></a>
-<br/><br/><br/>
-Вариант "num"
+<a href="http://pechkov.chitanka.info/#archives"><b><u>Описание на архивите в FB2, EPUB и MOBI формат</u></b></a><br/><br/>
+<a href="http://pechkov.chitanka.info/mobi"><b><u>За притежателите на четци "Kindle" - директория за директно сваляне на произведенията в MOBI формат</u></b></a><br/><br/>
+<a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.12.zip"><b><u>chitanka.info.filter - декември 2017</u></b></a><br/><br/><br/>
+Вариант <b>"num"</b> - файловете са надписани с номера
 <table class="table table-striped">
   <tr>
     <th>Период</th>
@@ -27,22 +24,14 @@ Title: Ресурси
     <th>MOBI.num</th>
   </tr>
   <tr>
-      <td>
-          <b>обобщен до декември 2017 год. включително</b><br>съдържа 38532 произведения
-      </td>
-      <td>
-          Работи се…
-      </td>
-      <td>
-          Работи се…
-      </td>
-      <td>
-          Работи се…
-      </td>
+    <td><b>обобщен архив до декември 2017 год. включително</b><br>съдържа 38532 произведения</td>
+    <td><a href="magnet:?xt=urn:btih:B7972DAD9EA6D3D12F0BE119292CE3CEF5728BE2&dn=chitanka.info.fb2.num-2017.12-cumulative.zip">magnet link</a><br/>2.90 GiB</td>
+    <td><a href="magnet:?xt=urn:btih:0270E9E9533347813450B66CC65234BDD9E5B711&dn=chitanka.info.epub.num-2017.12-cumulative.zip">magnet link</a><br/>4.11 GiB</td>
+    <td><a href="magnet:?xt=urn:btih:D5FB319FBF36BF37B663510798B862A093F193B0&dn=chitanka.info.mobi.num-2017.12-cumulative.zip">magnet link</a><br/>3.04 GiB</td>
   </tr>
 </table>
 <br/>
-Вариант "name"
+Вариант <b>"name"</b> - файловете са надписани с имена (на латиница)
 <table class="table table-striped">
   <tr>
     <th>Период</th>
@@ -52,18 +41,10 @@ Title: Ресурси
   </tr>
   <tr>
   <tr>
-      <td>
-          <b>обобщен до декември 2017 год. включително</b><br>съдържа 38532 произведения
-      </td>
-      <td>
-          Работи се…
-      </td>
-      <td>
-          Работи се…
-      </td>
-      <td>
-          Работи се…
-      </td>
+    <td><b>обобщен архив до декември 2017 год. включително</b><br>съдържа 38532 произведения</td>
+    <td><a href="magnet:?xt=urn:btih:F7FB57E51DAE93164B389D2E08B5899467231C0F&dn=chitanka.info.fb2.name-2017.12-cumulative.zip">magnet link</a><br/>2.91 GiB</td>
+    <td><a href="magnet:?xt=urn:btih:C3E945271F1E28EB2BCB5C4C3AA856919E81FAA3&dn=chitanka.info.epub.name-2017.12-cumulative.zip">magnet link</a><br/>4.11 GiB</td>
+    <td><a href="magnet:?xt=urn:btih:F64287627676ED402DDB96A3D75CE0FB267C28C7&dn=chitanka.info.mobi.name-2017.12-cumulative.zip">magnet link</a><br/>3.05 GiB</td>
   </tr>
 </table>
 <br/>
