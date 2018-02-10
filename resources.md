@@ -14,7 +14,7 @@ Title: Ресурси
 <br/>
 <a href="http://pechkov.chitanka.info/#archives"><b><u>Описание на архивите в FB2, EPUB и MOBI формат</u></b></a><br/><br/>
 <a href="http://pechkov.chitanka.info/mobi"><b><u>За притежателите на четци "Kindle" - директория за директно сваляне на произведенията в MOBI формат</u></b></a><br/><br/>
-<a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2017.12.zip"><b><u>chitanka.info.filter - декември 2017</u></b></a><br/><br/><br/>
+<a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2018.01.zip"><b><u>chitanka.info.filter - януари 2018</u></b></a><br/><br/><br/>
 Вариант <b>"num"</b> - файловете са надписани с номера
 <table class="table table-striped">
   <tr>
@@ -28,6 +28,12 @@ Title: Ресурси
     <td><a href="magnet:?xt=urn:btih:B7972DAD9EA6D3D12F0BE119292CE3CEF5728BE2&dn=chitanka.info.fb2.num-2017.12-cumulative.zip">magnet link</a><br/>2.90 GiB</td>
     <td><a href="magnet:?xt=urn:btih:0270E9E9533347813450B66CC65234BDD9E5B711&dn=chitanka.info.epub.num-2017.12-cumulative.zip">magnet link</a><br/>4.11 GiB</td>
     <td><a href="magnet:?xt=urn:btih:D5FB319FBF36BF37B663510798B862A093F193B0&dn=chitanka.info.mobi.num-2017.12-cumulative.zip">magnet link</a><br/>3.04 GiB</td>
+  </tr>
+  <tr>
+    <td><b>януари 2018</b><br>15 произведения (13 нови, 2 корекции)</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2018.01.zip">download</a><br/>6.08 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2018.01.zip">download</a><br/>6.86 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2018.01.zip">download</a><br/>5.77 MiB</td>
   </tr>
 </table>
 <br/>
@@ -45,6 +51,12 @@ Title: Ресурси
     <td><a href="magnet:?xt=urn:btih:F7FB57E51DAE93164B389D2E08B5899467231C0F&dn=chitanka.info.fb2.name-2017.12-cumulative.zip">magnet link</a><br/>2.91 GiB</td>
     <td><a href="magnet:?xt=urn:btih:C3E945271F1E28EB2BCB5C4C3AA856919E81FAA3&dn=chitanka.info.epub.name-2017.12-cumulative.zip">magnet link</a><br/>4.11 GiB</td>
     <td><a href="magnet:?xt=urn:btih:F64287627676ED402DDB96A3D75CE0FB267C28C7&dn=chitanka.info.mobi.name-2017.12-cumulative.zip">magnet link</a><br/>3.05 GiB</td>
+  </tr>
+  <tr>
+    <td><b>януари 2018</b><br>15 произведения (13 нови, 2 корекции)</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2018.01.zip">download</a><br/>6.39 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2018.01.zip">download</a><br/>7.17 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2018.01.zip">download</a><br/>6.08 MiB</td>
   </tr>
 </table>
 <br/>
