@@ -14,7 +14,7 @@ Title: Ресурси
 <br/>
 <a href="http://pechkov.chitanka.info/#archives"><b><u>Описание на архивите в FB2, EPUB и MOBI формат</u></b></a><br/><br/>
 <a href="http://pechkov.chitanka.info/mobi"><b><u>За притежателите на четци "Kindle" - директория за директно сваляне на произведенията в MOBI формат</u></b></a><br/><br/>
-<a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2018.01.zip"><b><u>chitanka.info.filter - януари 2018</u></b></a><br/><br/><br/>
+<a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2018.02.zip"><b><u>chitanka.info.filter - февруари 2018</u></b></a><br/><br/><br/>
 Вариант <b>"num"</b> - файловете са надписани с номера
 <table class="table table-striped">
   <tr>
