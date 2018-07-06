@@ -4,7 +4,7 @@ Title: Текстове
 
 <b>Четени след 07 май 2017 г.</b>
 
-* [Клифърд Саймък. Градът (14)](errors-online/texts/134) https://chitanka.info/text/134/14#textstart
+* [Клифърд Саймък. Градът (14)](/errors-online/texts/134) https://chitanka.info/text/134/14#textstart
 
 При това произведение ще гадая как е включено в няколко книги. Има запис за корекция в Ателие: https://chitanka.info/workroom/entry/12959
 
