@@ -14,7 +14,7 @@ Title: Ресурси
 <br/>
 <a href="http://pechkov.chitanka.info/#archives"><b><u>Описание на архивите в FB2, EPUB и MOBI формат</u></b></a><br/><br/>
 <a href="http://pechkov.chitanka.info/mobi"><b><u>За притежателите на четци "Kindle" - директория за директно сваляне на произведенията в MOBI формат</u></b></a><br/><br/>
-<a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2018.04.zip"><b><u>chitanka.info.filter - април 2018</u></b></a><br/><br/><br/>
+<a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2018.08.zip"><b><u>chitanka.info.filter - август 2018</u></b></a><br/><br/><br/>
 Вариант <b>"num"</b> - файловете са надписани с номера
 <table class="table table-striped">
   <tr>
@@ -52,6 +52,12 @@ Title: Ресурси
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2018.04.zip">download</a><br/>18.6 MiB</td>
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2018.04.zip">download</a><br/>22.8 MiB</td>
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2018.04.zip">download</a><br/>21.0 MiB</td>
+  </tr>
+  <tr>
+    <td><b>май, юни, юли, август 2018</b><br>1304 произведения</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2018.05-08.zip">download</a><br/>333 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2018.05-08.zip">download</a><br/>376 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2018.05-08.zip">download</a><br/>203 MiB</td>
   </tr>
 </table>
 <br/>
@@ -93,6 +99,12 @@ Title: Ресурси
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2018.04.zip">download</a><br/>18.9 MiB</td>
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2018.04.zip">download</a><br/>23.1 MiB</td>
     <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2018.04.zip">download</a><br/>21.5 MiB</td>
+  </tr>
+  <tr>
+    <td><b>май, юни, юли, август 2018</b><br>1304 произведения</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2018.05-08.zip">download</a><br/>334 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2018.05-08.zip">download</a><br/>377 MiB</td>
+    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2018.05-08.zip">download</a><br/>203 MiB</td>
   </tr>
 </table>
 <br/>
