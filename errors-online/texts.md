@@ -4,6 +4,8 @@ Title: Текстове
 
 <b>Четени след 07 май 2017 г.</b>
 
+* [Стивън Кинг. Онова чувство, което се изразява само на френски](/errors-online/texts/9878)
+
 * [Иван Вазов. Gronde Maritza teinte de sang](/errors-online/texts/5011)
 
 * [Йордан Йовков. Частният учител](/errors-online/texts/7872)
