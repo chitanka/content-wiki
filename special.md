@@ -4,3 +4,5 @@ Title: Специални страници
 
 * [Странично меню](/special/sidebar-menu.html)
 * [Долно меню](/special/footer-menu.html)
+* [Увод на страницата за връзка с екипа](/special/contact-intro.html)
+* [Правила за читателските коментари](/special/comment-rules.html)
