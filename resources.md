@@ -15,100 +15,31 @@ Title: Ресурси
 <a href="http://pechkov.chitanka.info/#archives"><b><u>Описание на архивите в FB2, EPUB и MOBI формат</u></b></a><br/><br/>
 <a href="http://pechkov.chitanka.info/mobi"><b><u>За притежателите на четци "Kindle" - директория за директно сваляне на произведенията в MOBI формат</u></b></a><br/><br/>
 <a href="https://pechkov.chitanka.info/util/chitanka.info.filter-2018.08.zip"><b><u>chitanka.info.filter - август 2018</u></b></a><br/><br/><br/>
-Вариант <b>"num"</b> - файловете са надписани с номера
+Вариант <b>"с номера"</b> - файловете са надписани с номера<br/>
+Вариант <b>"с имена"</b> - файловете са надписани с имената на авторите и произведенията (на латиница)
 <table class="table table-striped">
-  <tr>
-    <th>Период</th>
-    <th>FB2.num</th>
-    <th>EPUB.num</th>
-    <th>MOBI.num</th>
-  </tr>
-  <tr>
-    <td><b>обобщен архив до декември 2017 год. включително</b><br>съдържа 38532 произведения</td>
-    <td><a href="magnet:?xt=urn:btih:B7972DAD9EA6D3D12F0BE119292CE3CEF5728BE2&dn=chitanka.info.fb2.num-2017.12-cumulative.zip">magnet link</a><br/>2.90 GiB</td>
-    <td><a href="magnet:?xt=urn:btih:0270E9E9533347813450B66CC65234BDD9E5B711&dn=chitanka.info.epub.num-2017.12-cumulative.zip">magnet link</a><br/>4.11 GiB</td>
-    <td><a href="magnet:?xt=urn:btih:D5FB319FBF36BF37B663510798B862A093F193B0&dn=chitanka.info.mobi.num-2017.12-cumulative.zip">magnet link</a><br/>3.04 GiB</td>
-  </tr>
-  <tr>
-    <td><b>януари 2018</b><br>15 произведения (13 нови, 2 корекции)</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2018.01.zip">download</a><br/>6.08 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2018.01.zip">download</a><br/>6.86 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2018.01.zip">download</a><br/>5.77 MiB</td>
-  </tr>
-  <tr>
-    <td><b>февруари 2018</b><br>582 произведения (560 нови, 22 корекции)</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2018.02.zip">download</a><br/>31.2 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2018.02.zip">download</a><br/>46.3 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2018.02.zip">download</a><br/>31.4 MiB</td>
-  </tr>
-  <tr>
-    <td><b>март 2018</b><br>289 произведения (285 нови, 4 корекции)</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2018.03.zip">download</a><br/>175 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2018.03.zip">download</a><br/>184 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2018.03.zip">download</a><br/>86.2 MiB</td>
-  </tr>
-  <tr>
-    <td><b>април 2018</b><br>107 произведения (96 нови, 11 корекции)</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2018.04.zip">download</a><br/>18.6 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2018.04.zip">download</a><br/>22.8 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2018.04.zip">download</a><br/>21.0 MiB</td>
-  </tr>
-  <tr>
-    <td><b>май, юни, юли, август 2018</b><br>1304 произведения</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2018.05-08.zip">download</a><br/>333 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2018.05-08.zip">download</a><br/>376 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2018.05-08.zip">download</a><br/>203 MiB</td>
-  </tr>
+	<tr>
+		<th>Период</th>
+		<th>FB2</th>
+		<th>EPUB</th>
+		<th>MOBI</th>
+	</tr>
+	<tr>
+		<td>
+		<b>обобщен архив до август 2019 год. включително</b><br>съдържа 42481 произведения
+	</td>
+	<td>
+		Работи се…
+	</td>
+	<td>
+		Работи се…
+	</td>
+	<td>
+		Работи се…
+	</td>
+	</tr>
 </table>
 <br/>
-Вариант <b>"name"</b> - файловете са надписани с имена (на латиница)
-<table class="table table-striped">
-  <tr>
-    <th>Период</th>
-    <th>FB2.name</th>
-    <th>EPUB.name</th>
-    <th>MOBI.name</th>
-  </tr>
-  <tr>
-  <tr>
-    <td><b>обобщен архив до декември 2017 год. включително</b><br>съдържа 38532 произведения</td>
-    <td><a href="magnet:?xt=urn:btih:F7FB57E51DAE93164B389D2E08B5899467231C0F&dn=chitanka.info.fb2.name-2017.12-cumulative.zip">magnet link</a><br/>2.91 GiB</td>
-    <td><a href="magnet:?xt=urn:btih:C3E945271F1E28EB2BCB5C4C3AA856919E81FAA3&dn=chitanka.info.epub.name-2017.12-cumulative.zip">magnet link</a><br/>4.11 GiB</td>
-    <td><a href="magnet:?xt=urn:btih:F64287627676ED402DDB96A3D75CE0FB267C28C7&dn=chitanka.info.mobi.name-2017.12-cumulative.zip">magnet link</a><br/>3.05 GiB</td>
-  </tr>
-  <tr>
-    <td><b>януари 2018</b><br>15 произведения (13 нови, 2 корекции)</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2018.01.zip">download</a><br/>6.39 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2018.01.zip">download</a><br/>7.17 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2018.01.zip">download</a><br/>6.08 MiB</td>
-  </tr>
-  <tr>
-    <td><b>февруари 2018</b><br>582 произведения (560 нови, 22 корекции)</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2018.02.zip">download</a><br/>31.6 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2018.02.zip">download</a><br/>46.7 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2018.02.zip">download</a><br/>31.7 MiB</td>
-  </tr>
-  <tr>
-    <td><b>март 2018</b><br>289 произведения (285 нови, 4 корекции)</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2018.03.zip">download</a><br/>175 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2018.03.zip">download</a><br/>185 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2018.03.zip">download</a><br/>86.5 MiB</td>
-  </tr>
-  <tr>
-    <td><b>април 2018</b><br>107 произведения (96 нови, 11 корекции)</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2018.04.zip">download</a><br/>18.9 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2018.04.zip">download</a><br/>23.1 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2018.04.zip">download</a><br/>21.5 MiB</td>
-  </tr>
-  <tr>
-    <td><b>май, юни, юли, август 2018</b><br>1304 произведения</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2018.05-08.zip">download</a><br/>334 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2018.05-08.zip">download</a><br/>377 MiB</td>
-    <td><a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2018.05-08.zip">download</a><br/>203 MiB</td>
-  </tr>
-</table>
-<br/>
-
 -------------------------------------
 <h2 id="my-library-on-my-own-server"><strong>Читанка на собствен сървър</strong></h2>
 
