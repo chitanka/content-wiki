@@ -6,14 +6,14 @@ Title: Читанка на собствен сървър
 
 ### GNU/Linux
 
-- [chitanka-desktop-linux](https://download.chitanka.info) (скоро)
+- [chitanka-desktop-linux](https://download.chitanka.info) (скоро) — изпълним файл: `chitanka`
 - [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent)
 
 Можете да обновявате библиотеката си, като изпълнявате файла `update-content`.
 
 ### Windows
 
-- [chitanka-desktop-windows](https://download.chitanka.info/chitanka-desktop-windows.7z)
+- [chitanka-desktop-windows](https://download.chitanka.info/chitanka-desktop-windows.7z) — изпълним файл: `chitanka.exe`
 - [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent)
 
 Можете да обновявате библиотеката си, като изпълнявате файла `update-content.bat`.
