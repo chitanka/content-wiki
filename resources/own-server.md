@@ -2,7 +2,7 @@ Title: Читанка на собствен сървър
 
 ## 1. Преносим пакет
 
-Преносимият пакет разполага с вграден сървър и браузър и не се нуждае от инсталация. След като свалите съответния пакет за вашата операционна система, трябва да изтеглите и файла [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent) и да разархивирате съдържанието му в директорията `chitanka-content`.
+Преносимият пакет е изграден върху [PHP Desktop](https://github.com/cztomczak/phpdesktop) и разполага с вграден сървър и браузър. След като свалите съответния пакет за вашата операционна система, трябва да изтеглите и файла [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent) и да разархивирате съдържанието му в директорията `chitanka-content`.
 
 ### GNU/Linux
 
