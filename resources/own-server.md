@@ -21,18 +21,18 @@ Title: Читанка на собствен сървър
 
 ## 2. Виртуална машина
 
-Файл                                                                                                               | Кратко описание
------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[chitanka-virtual-machine-2019-11-15](https://github.com/chitanka/sites-files/raw/master/chitanka15112019.torrent) | Виртуална машина на „Моята библиотека“ към 15 ноември 2019 г. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
-[chitanka-virtual-machine-2019-07-17](https://github.com/tonywoolf/chitanka/raw/master/chitanka17.07.2019.torrent) | Виртуална машина на „Моята библиотека“ към 17 юли 2019 г. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
-[chitanka-virtual-machine-2017-02-06](https://github.com/chitanka/sites-files/raw/master/chitanka.06.02.2017.torrent)                     | Виртуална машина на „Моята библиотека“ към 6 февруари 2017 г. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
-[chitanka-virtual-machine-2016-04-01](https://github.com/chitanka/sites-files/raw/master/chitanka.01.04.2016.torrent)                      | Виртуална машина на „Моята библиотека“ към 1 април 2016 г. [Пускайте коментарите си във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
+Виртуална машина на „Моята библиотека“ за VirtualBox. [Повече информация има във форума.](http://forum.chitanka.info/my-library-on-virtual-machine-t3949.html)
+
+- [От 15 ноември 2019 г.](https://github.com/chitanka/sites-files/raw/master/chitanka15112019.torrent)
+- [От 17 юли 2019 г.](https://github.com/tonywoolf/chitanka/raw/master/chitanka17.07.2019.torrent)
+- [От 6 февруари 2017 г.](https://github.com/chitanka/sites-files/raw/master/chitanka.06.02.2017.torrent)
+- [От 1 април 2016 г.](https://github.com/chitanka/sites-files/raw/master/chitanka.01.04.2016.torrent)
 
 
 ## 3. Статична версия
 
-Файл                                                                                                               | Кратко описание
------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[chitanka.info-static-2010-12-13](http://static.chitanka.info/tor/chitanka.info-static-2010-12-13.torrent)         | Статична версия на „Моята библиотека“ към 13 декември 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
-[chitanka.info-static-2010-05-24](http://static.chitanka.info/tor/chitanka.info-static-2010-05-24.torrent)         | Статична версия на „Моята библиотека“ към 24 май 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
-[chitanka.info-static-2010-01-17](http://static.chitanka.info/tor/chitanka.info-static-2010-01-17.torrent)         | Статична версия на „Моята библиотека“ към 17 януари 2010 г. Във файла README.html е обяснено как се ползва. [Пускайте коментарите си във форума.](http://forum.chitanka.info/static-version-t1517.html)
+Статична версия на „Моята библиотека“, която вече не се обновява. Във файла README.html е обяснено как се ползва. [Повече информация има във форума.](http://forum.chitanka.info/static-version-t1517.html)
+
+- [От 13 декември 2010 г.](http://static.chitanka.info/tor/chitanka.info-static-2010-12-13.torrent)
+- [От 24 май 2010 г.](http://static.chitanka.info/tor/chitanka.info-static-2010-05-24.torrent)
+- [От 17 януари 2010 г.](http://static.chitanka.info/tor/chitanka.info-static-2010-01-17.torrent)
