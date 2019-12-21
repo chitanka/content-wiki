@@ -1,5 +1,17 @@
 Title: Читанка на собствен сървър
 
+## Преносим пакет
+
+Преносимият пакет съдържа в себе си вграден сървър и браузър и не се нуждае от инсталация. След като свалите съответния пакет за вашата операционна система, трябва да изтеглите и файла [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent).
+
+### GNU/Linux
+
+- [chitanka-desktop-linux](https://download.chitanka.info) (скоро)
+
+### Windows
+
+- [chitanka-desktop-windows](https://download.chitanka.info/chitanka-desktop-windows.7z)
+
 ## Виртуална машина
 
 Дата             | Файл                                                                                                               | Кратко описание
