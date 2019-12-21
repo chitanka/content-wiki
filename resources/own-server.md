@@ -14,6 +14,7 @@ Title: Читанка на собствен сървър
 ### Windows
 
 - [chitanka-desktop-windows](https://download.chitanka.info/chitanka-desktop-windows.7z) — изпълним файл: `chitanka.exe`
+    - Системни изисквания: Windows 7 или по-нова. Windows XP и Vista **не** се поддържат.
 - [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent)
 
 Можете да обновявате библиотеката си, като изпълнявате файла `update-content.bat`.
