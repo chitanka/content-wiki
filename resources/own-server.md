@@ -39,8 +39,4 @@ Title: Читанка на собствен сървър
 
 ## 3. Статична версия
 
-Статична версия на „Моята библиотека“, която вече не се обновява. Във файла README.html е обяснено как се ползва. [Повече информация има във форума.](http://forum.chitanka.info/static-version-t1517.html)
-
-- [От 13 декември 2010 г.](http://static.chitanka.info/tor/chitanka.info-static-2010-12-13.torrent)
-- [От 24 май 2010 г.](http://static.chitanka.info/tor/chitanka.info-static-2010-05-24.torrent)
-- [От 17 януари 2010 г.](http://static.chitanka.info/tor/chitanka.info-static-2010-01-17.torrent)
+Преди години имаше статична версия на „Моята библиотека“, която не изискваше инсталация на сървър или база от данни. За сметка на това беше ограничена само до HTML. Във форума има [малко повече информация за нея](http://forum.chitanka.info/static-version-t1517.html).
