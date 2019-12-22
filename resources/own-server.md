@@ -10,7 +10,7 @@ Title: Читанка на собствен сървър
 
 ### GNU/Linux
 
-- [chitanka-desktop-linux, версия 2020-1A](https://download.chitanka.info/chitanka-desktop-linux-v2020-1A.tgz) — изпълним файл: `chitanka`
+- [chitanka-desktop-linux, версия 2020-1a](https://download.chitanka.info/chitanka-desktop-linux-v2020-1a.tgz) — изпълним файл: `chitanka`
 - [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent)
 
 Можете да обновявате библиотеката си, като изпълнявате файла `update-content`. Изисква се инсталацията на [git](https://en.wikipedia.org/wiki/Git) и [rsync](https://en.wikipedia.org/wiki/Rsync).
@@ -22,7 +22,7 @@ Title: Читанка на собствен сървър
 
 ### Windows
 
-- [chitanka-desktop-windows, версия 2020-1A](https://download.chitanka.info/chitanka-desktop-windows-v2020-1A.7z) — изпълним файл: `chitanka.exe`
+- [chitanka-desktop-windows, версия 2020-1a](https://download.chitanka.info/chitanka-desktop-windows-v2020-1a.7z) — изпълним файл: `chitanka.exe`
     - Системни изисквания: Windows 7 или по-нова. Windows XP и Vista **не** се поддържат.
 - [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent)
 
