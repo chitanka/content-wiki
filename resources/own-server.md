@@ -4,12 +4,19 @@ Title: Читанка на собствен сървър
 
 Преносимият пакет е изграден върху [PHP Desktop](https://github.com/cztomczak/phpdesktop) и разполага с вграден сървър и браузър. След като свалите съответния пакет за вашата операционна система, трябва да изтеглите и файла [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent) и да разархивирате съдържанието му в директорията `chitanka-content`.
 
+В момента не се поддържат бутоните „Напред“ (Forward) и „Назад“ (Back), като единственият начин за връщане една страница назад е чрез контекстното меню.
+
 ### GNU/Linux
 
-- [chitanka-desktop-linux](https://download.chitanka.info) (скоро) — изпълним файл: `chitanka`
+- [chitanka-desktop-linux](https://download.chitanka.info/chitanka-desktop-linux.tgz) — изпълним файл: `chitanka`
 - [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent)
 
 Можете да обновявате библиотеката си, като изпълнявате файла `update-content`.
+
+Забелязани грешки:
+
+- При Debian Stretch и Buster не работи входът от клавиатурата. Работи се по отстраняването на [тази грешка](https://github.com/cztomczak/phpdesktop/issues/269).
+
 
 ### Windows
 
