@@ -11,7 +11,7 @@ Title: Читанка на собствен сървър
 - [chitanka-desktop-linux](https://download.chitanka.info/chitanka-desktop-linux.tgz) — изпълним файл: `chitanka`
 - [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent)
 
-Можете да обновявате библиотеката си, като изпълнявате файла `update-content`.
+Можете да обновявате библиотеката си, като изпълнявате файла `update-content`. Изисква се инсталацията на [git](https://en.wikipedia.org/wiki/Git) и [rsync](https://en.wikipedia.org/wiki/Rsync).
 
 Забелязани грешки:
 
