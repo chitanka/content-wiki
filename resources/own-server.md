@@ -6,6 +6,8 @@ Title: Читанка на собствен сървър
 
 В момента не се поддържат бутоните „Напред“ (Forward) и „Назад“ (Back), като единственият начин за връщане една страница назад е чрез контекстното меню.
 
+Пишете във [форума](https://forum.chitanka.info/chitanka-standalone-edition-t6309.html), ако имате въпроси или коментари.
+
 ### GNU/Linux
 
 - [chitanka-desktop-linux](https://download.chitanka.info/chitanka-desktop-linux.tgz) — изпълним файл: `chitanka`
