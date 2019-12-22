@@ -10,7 +10,7 @@ Title: Читанка на собствен сървър
 
 ### GNU/Linux
 
-- [chitanka-desktop-linux, версия 2020-1a](https://download.chitanka.info/chitanka-desktop-linux-v2020-1a.tgz) — изпълним файл: `chitanka`
+- [chitanka-desktop-linux, версия 2020-1a](https://download.chitanka.info/chitanka-desktop-linux-v2020-1a.tar.bz2) — изпълним файл: `chitanka`
 - [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent)
 
 Можете да обновявате библиотеката си, като изпълнявате файла `update-content`. Изисква се инсталацията на [git](https://en.wikipedia.org/wiki/Git) и [rsync](https://en.wikipedia.org/wiki/Rsync).
