@@ -2,13 +2,12 @@ Title: Архиви
 
 - [Описание на архивите в FB2, EPUB и MOBI формат](http://pechkov.chitanka.info/#archives)
 - [За притежателите на четци „Kindle“ — директория за директно сваляне на произведенията във формат MOBI](http://pechkov.chitanka.info/mobi)
-- Програма [chitanka.info.filter — август 2018](https://pechkov.chitanka.info/util/chitanka.info.filter-2018.08.zip)
+- Програма [chitanka.info.filter — декемрви 2018](https://pechkov.chitanka.info/util/chitanka.info.filter-2019.12.zip)
 
 Легенда:
 
-- Вариант <b>„с номера“</b> — файловете са надписани с номера
-- Вариант <b>„с имена“</b> — файловете са надписани с имената на авторите и произведенията (на латиница)
-
+Вариант <b>"с номера"</b> - файловете са надписани с номера<br/>
+Вариант <b>"с имена"</b> - файловете са надписани с имената на авторите и произведенията (на латиница)<br/>
 <table class="table table-striped">
 	<tr>
 		<th>Период</th>
@@ -16,18 +15,24 @@ Title: Архиви
 		<th>EPUB</th>
 		<th>MOBI</th>
 	</tr>
+
 	<tr>
 		<td>
-		<b>обобщен архив до август 2019 год. включително</b><br>съдържа 42481 произведения
-	</td>
-	<td>
-		Работи се…
-	</td>
-	<td>
-		Работи се…
-	</td>
-	<td>
-		Работи се…
-	</td>
+			<b>обобщен архив до декември 2019 год. включително</b><br>съдържа 43087 произведения
+		</td>
+		<td>
+			<a href="magnet:?xt=urn:btih:4F1280A6A3D8480796F82254CB6F7EB4A60FBA0D&dn=chitanka.info.fb2.num-2019.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce">FB2 с номера</a><br/>
+			<a href="magnet:?xt=urn:btih:F3E5D9BF9559C729A631134B7FCE2EDF0F67098C&dn=chitanka.info.fb2.name-2019.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce">FB2 с имена</a><br/>
+		</td>
+		<td>
+			<a href="magnet:?xt=urn:btih:C717239EF7EA4DB991142208D9C2DE846D6E1DF7&dn=chitanka.info.epub.num-2019.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce">EPUB с номера</a><br/>
+			<a href="magnet:?xt=urn:btih:A475BE4D24E7E31AEBDE33D5FE0FEFDF04F45542&dn=chitanka.info.epub.name-2019.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce">EPUB с имена</a><br/>
+		</td>
+		<td>
+			<a href="magnet:?xt=urn:btih:982591C60032EFB8B7987F187B86534113461A61&dn=chitanka.info.mobi.num-2019.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce">MOBI с номера</a><br/>
+			<a href="magnet:?xt=urn:btih:8B8B5153EE6974DDBB50B335186E7FCE4F133BAA&dn=chitanka.info.mobi.name-2019.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce">MOBI с имена</a><br/>
+		</td>
 	</tr>
+
 </table>
+<br/>
