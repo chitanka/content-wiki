@@ -36,6 +36,7 @@ Title: Читанка на собствен сървър
 - **`api-ms-win-crt-runtime-l1-1-0.dll missing`** — Това се случва на системи, които не са актуализирани. Има два начина да поправите тази грешка:
     1. Обновявате системата си чрез Windows Update. Ако скоро не сте го правили, е възможно да отнеме часове.
     2. Ако не искате да обновите, можете алтернативно да инсталирате [Microsoft Visual C++ 2015 Redistributable Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=53840).
+- **rsync: failed to set permissions on "/cygdrive/....": Permission denied (13)** – Ако получите такива съобщения за грешки, пуснете отново обновяването с административни права: десен клавиш, _Пусни като администратор_ (Run as Administrator). 
 
 
 ## 2. Виртуална машина
