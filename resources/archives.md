@@ -16,9 +16,9 @@ Title: Архиви
 		<th>MOBI</th>
 	</tr>
 
-	<tr>
+	<tr valign="middle">
 		<td>
-			<b>обобщен архив до декември 2019 год. включително</b><br>съдържа 43087 произведения
+			<b>обобщен архив до декември 2019 год. включително</b><br/>съдържа 43087 произведения
 		</td>
 		<td>
 			<a href="magnet:?xt=urn:btih:4F1280A6A3D8480796F82254CB6F7EB4A60FBA0D&dn=chitanka.info.fb2.num-2019.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce">FB2 с номера</a><br/>
@@ -33,6 +33,24 @@ Title: Архиви
 			<a href="magnet:?xt=urn:btih:8B8B5153EE6974DDBB50B335186E7FCE4F133BAA&dn=chitanka.info.mobi.name-2019.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce">MOBI с имена</a><br/>
 		</td>
 	</tr>
+
+	<tr valign="middle">
+		<td>
+			<b>януари 2020 год.</b><br/>съдържа 192 произведения<br/>(189 нови, 3 корекции)
+		</td>
+		<td>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2020.01.zip">FB2 с номера</a><br/>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2020.01.zip">FB2 с имена</a><br/>
+		</td>
+		<td>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2020.01.zip">EPUB с номера</a><br/>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2020.01.zip">EPUB с имена</a><br/>
+		</td>
+		<td>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2020.01.zip">MOBI с номера</a><br/>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2020.01.zip">MOBI с имена</a><br/>
+		</td>        
+	</tr>            
 
 </table>
 <br/>
