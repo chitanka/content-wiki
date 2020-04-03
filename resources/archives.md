@@ -2,7 +2,7 @@ Title: Архиви
 
 - [Описание на архивите в FB2, EPUB и MOBI формат](http://pechkov.chitanka.info/#archives)
 - [За притежателите на четци „Kindle“ — директория за директно сваляне на произведенията във формат MOBI](http://pechkov.chitanka.info/mobi)
-- Програма [chitanka.info.filter — февруари 2020](https://pechkov.chitanka.info/util/chitanka.info.filter-2020.02.zip)
+- Програма [chitanka.info.filter — март 2020](https://pechkov.chitanka.info/util/chitanka.info.filter-2020.03.zip)
 
 Легенда:
 
@@ -67,6 +67,24 @@ Title: Архиви
 		<td>
 			<a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2020.02.zip">MOBI с номера</a><br/>
 			<a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2020.02.zip">MOBI с имена</a><br/>
+		</td>
+	</tr>
+
+	<tr valign="middle">
+		<td>
+			<b>март 2020 год.</b><br/>съдържа 78 произведения<br/>(78 нови, 0 корекции)
+		</td>
+		<td>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.num-2020.03.zip">FB2 с номера</a><br/>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.fb2.name-2020.03.zip">FB2 с имена</a><br/>
+		</td>
+		<td>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.num-2020.03.zip">EPUB с номера</a><br/>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.epub.name-2020.03.zip">EPUB с имена</a><br/>
+		</td>
+		<td>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.num-2020.03.zip">MOBI с номера</a><br/>
+			<a href="https://pechkov.chitanka.info/archives/chitanka.info.mobi.name-2020.03.zip">MOBI с имена</a><br/>
 		</td>
 	</tr>
 
