@@ -40,5 +40,5 @@ Title: Библиотека за ученика — X клас
     * [„Тютюн“](/text/5799) ([І глава](/text/5799#textstart), [ХVІ глава](/text/5799/16#textstart) от І част)
 * Николай Хайтов
     * [„Дърво без корен“](/text/29545)
-Йордан Радичков
+* Йордан Радичков
     * [„Нежната спирала“](http://liternet.bg/publish5/jradichkov/nezhnata/nezhnata.htm)
