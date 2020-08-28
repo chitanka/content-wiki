@@ -1,5 +1,7 @@
 Title: collections/school/old-progras
 
+Учебно съдържание по стария план
+
 * [VIII клас](/collections/school/viii-class-old)
 * [IX клас](/collections/school/ix-class-old)
 * [X клас](/collections/school/x-class-old)
