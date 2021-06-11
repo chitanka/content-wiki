@@ -1,8 +1,8 @@
 Title: Архиви
 
 - [Описание на архивите в FB2, EPUB и MOBI формат](http://pechkov.chitanka.info/#archives)
-- [За притежателите на четци „Kindle“ — директория за директно сваляне на произведенията във формат MOBI](http://pechkov.chitanka.info/mobi)
-- Програма [chitanka.info.filter — ноември 2020](https://pechkov.chitanka.info/util/chitanka.info.filter-2020.11.zip)
+<!-- - [За притежателите на четци „Kindle“ — директория за директно сваляне на произведенията във формат MOBI](http://pechkov.chitanka.info/mobi)
+- Програма [chitanka.info.filter — ноември 2020](https://pechkov.chitanka.info/util/chitanka.info.filter-2020.11.zip) -->
 
 Легенда:
 
@@ -21,14 +21,8 @@ Title: Архиви
 		<td>
 			<b>обобщен архив до декември 2020 год. включително</b><br/>съдържа 46413 произведения
 		</td>
-		<td>
-			Работи се
-		</td>
-		<td>
-			Работи се
-		</td>
-		<td>
-			Работи се
+		<td colspan="3" align="center">
+			<br/><b>Проектът е преустановен за неопределено време.</b><br/><br/>
 		</td>
 	</tr>
 
