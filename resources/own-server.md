@@ -2,7 +2,7 @@ Title: Читанка на собствен сървър
 
 ## 1. Преносим пакет
 
-Преносимият пакет е изграден върху [PHP Desktop](https://github.com/cztomczak/phpdesktop) и разполага с вграден сървър и браузър. След като свалите съответния пакет за вашата операционна система, трябва да изтеглите и файла [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent) и да разархивирате съдържанието му в директорията `chitanka-content`.
+Преносимият пакет е изграден върху [PHP Desktop](https://github.com/cztomczak/phpdesktop) и разполага с вграден сървър и браузър. След като свалите съответния пакет за вашата операционна система, трябва да изтеглите и файла [chitanka-content.zip](magnet:?xt=urn:btih:00F3DF9CB6AC28A989ECA4C2157A2A49C3C75EC7&dn=chitanka-content.zip) и да разархивирате съдържанието му в директорията `chitanka-content`.
 
 Ограничения:
 
@@ -14,7 +14,7 @@ Title: Читанка на собствен сървър
 ### GNU/Linux
 
 - [chitanka-desktop-linux, версия 2020.1a](https://download.chitanka.info/chitanka-desktop-linux-v2020.1a.tgz) — изпълним файл: `chitanka`
-- [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent)
+- [chitanka-content.zip](magnet:?xt=urn:btih:00F3DF9CB6AC28A989ECA4C2157A2A49C3C75EC7&dn=chitanka-content.zip)
 
 Можете да обновявате библиотеката си, като изпълнявате файла `update-content`. Изисква се инсталацията на [git](https://en.wikipedia.org/wiki/Git) и [rsync](https://en.wikipedia.org/wiki/Rsync).
 
@@ -27,7 +27,7 @@ Title: Читанка на собствен сървър
 
 - [chitanka-desktop-windows, версия 2020.1b](https://download.chitanka.info/chitanka-desktop-windows-v2020.1b.zip) — изпълним файл: `chitanka.exe`
     - Системни изисквания: Windows 7 или по-нова. Windows XP и Vista **не** се поддържат.
-- [chitanka-content.zip](https://download.chitanka.info/chitanka-content.torrent)
+- [chitanka-content.zip](magnet:?xt=urn:btih:00F3DF9CB6AC28A989ECA4C2157A2A49C3C75EC7&dn=chitanka-content.zip)
 
 Можете да обновявате библиотеката си, като изпълнявате файла `update-content.bat`.
 
