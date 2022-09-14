@@ -1,4 +1,4 @@
-Title: collections/school/ix-class-old
+Title: IX клас
 
 Литература за задължителна и профилирана подготовка за IX клас.
 

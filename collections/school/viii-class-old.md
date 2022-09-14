@@ -1,4 +1,4 @@
-Title: collections/school/viii-class-old
+Title: VIII клас
 
 Литература за задължителна подготовка за VIII клас
 

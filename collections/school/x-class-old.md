@@ -1,4 +1,4 @@
-Title: collections/school/x-class-old
+Title: X клас
 
 Литература за задължителна и профилирана подготовка за X клас.
 

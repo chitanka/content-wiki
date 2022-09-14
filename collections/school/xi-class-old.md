@@ -1,4 +1,4 @@
-Title: collections/school/xi-class-old
+Title: XI клас
 
 Литература за задължителна и профилирана подготовка за XI клас.
 

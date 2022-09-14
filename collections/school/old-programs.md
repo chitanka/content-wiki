@@ -1,4 +1,4 @@
-Title: collections/school/old-programs
+Title: Учебно съдържание по стария план
 
 Учебно съдържание по стария план
 
