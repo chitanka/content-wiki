@@ -6,4 +6,5 @@ Title: Учебно съдържание по стария план
 * [IX клас](/collections/school/ix-class-old)
 * [X клас](/collections/school/x-class-old)
 * [XI клас](/collections/school/xi-class-old)
+* [XII клас](/collections/school/xii-class-old)
 * [Държавен зрелостен изпит](/collections/school/dzi-old)
