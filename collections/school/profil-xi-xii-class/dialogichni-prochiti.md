@@ -42,7 +42,7 @@ Title: Модул „Диалогични прочити“
 ## Димитър Димов
 * [„Осъдени души“](/text/2386)
 ## Въло Радев
-* [„Осъдени души“ (Филм)](https://www.youtube.com/watch?v=W1pdWg9I7GU)
+* [„Осъдени души“](https://www.youtube.com/watch?v=W1pdWg9I7GU) (Филм)
 
 # 4. Животът и смъртта
 ## Димчо Дебелянов
@@ -72,7 +72,7 @@ Title: Модул „Диалогични прочити“
 ## Александър Геров
 * [„Еделвайс“](http://litclub.bg/library/bg/gerov/smurt/edelvais.htm)
 ## Каспар Давид Фридрих
-* [„Странник над море от мъгла“](https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
+* [„Странник над море от мъгла“](https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg) (Картина)
 
 # 6. Любовта
 ## Атанас Далчев
@@ -82,7 +82,7 @@ Title: Модул „Диалогични прочити“
 ## Йордан Йовков
 * [„През чумавото“](/text/7893)
 ## Густав Климт
-* [„Целувката“](https://bg.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D1%83%D0%B2%D0%BA%D0%B0%D1%82%D0%B0_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%BD%D0%B0_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_%D0%9A%D0%BB%D0%B8%D0%BC%D1%82))
+* [„Целувката“](https://bg.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D1%83%D0%B2%D0%BA%D0%B0%D1%82%D0%B0_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%BD%D0%B0_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_%D0%9A%D0%BB%D0%B8%D0%BC%D1%82)) (Картина)
 ## О.Хенри
 * [„Даровете на влъхвите“](/text/13763)
 ## Георги Господинов
@@ -100,7 +100,7 @@ Title: Модул „Диалогични прочити“
 ## Елисавета Багряна
 * [„Жертвата“](/text/11694)
 ## Лудвиг ван Бетховен
-* [„Missa Solemnis - Kyrie eleison“](https://www.youtube.com/watch?v=7EK7kqSKGJ4&list=OLAK5uy_ngw3RuPIyDMhtiNBCxoB5Sv8PNYUJgOK8)
+* [„Missa Solemnis - Kyrie eleison“](https://www.youtube.com/watch?v=7EK7kqSKGJ4&list=OLAK5uy_ngw3RuPIyDMhtiNBCxoB5Sv8PNYUJgOK8) (Тържествена меса)
 
 # 8. Трудът и творчеството
 ## Никола Вапцаров
