@@ -2,6 +2,9 @@ Title: Учебно съдържание по стария план
 
 Учебно съдържание по стария план
 
+* [V клас](/collections/school/v-class-old)
+* [VI клас](/collections/school/vi-class-old)
+* [VII клас](/collections/school/vii-class-old)
 * [VIII клас](/collections/school/viii-class-old)
 * [IX клас](/collections/school/ix-class-old)
 * [X клас](/collections/school/x-class-old)
