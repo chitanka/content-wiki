@@ -13,6 +13,6 @@ Title: Библиотека за ученика
 * [X клас](/collections/school/x-class)
 * [XI клас](/collections/school/xi-class)
 * [XII клас](/collections/school/xii-class)
-* [Профилирана подготовка по български език и литература: XI-XII клас](/collections/school/profil-xi-xii-class)
 * [Държавен зрелостен изпит](/collections/school/dzi)
+* [Профилирана подготовка по български език и литература: XI-XII клас](/collections/school/profil-xi-xii-class)
 * [Учебно съдържание по стария план](/collections/school/old-programs)
