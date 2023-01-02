@@ -1,8 +1,8 @@
 Title: Архиви
 
 - [Описание на архивите в FB2, EPUB и MOBI формат](http://pechkov.chitanka.info/#archives)
-<!-- - [За притежателите на четци „Kindle“ — директория за директно сваляне на произведенията във формат MOBI](http://pechkov.chitanka.info/mobi)
-- Програма [chitanka.info.filter — ноември 2020](https://pechkov.chitanka.info/util/chitanka.info.filter-2020.11.zip) -->
+<!-- - [За притежателите на четци „Kindle“ — директория за директно сваляне на произведенията във формат MOBI](http://pechkov.chitanka.info/mobi) -->
+- Програма [chitanka.info.filter — декември 2022](https://pechkov.chitanka.info/install/chitanka.info.filter-2022.12.zip)
 
 Легенда:
 
