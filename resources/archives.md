@@ -19,10 +19,16 @@ Title: Архиви
 
 	<tr valign="middle">
 		<td>
-			<b>обобщен архив до декември 2020 год. включително</b><br/>съдържа 46413 произведения
+			<b>обобщен архив до декември 2022 год. включително</b><br/>съдържа 49833 произведения
 		</td>
-		<td colspan="3" align="center">
-			<br/><b>Проектът е преустановен за неопределено време.</b><br/><br/>
+		<td>
+			<a href="magnet:?xt=urn:btih:CDC8145EE17317300C7A561438F0A9DA8DFFEA52&dn=chitanka.info.fb2.num-2022.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">FB2 с номера</a><br/>
+		</td>
+		<td>
+			<a href="magnet:?xt=urn:btih:346EEF4750F2D8A3A2887C109D45FE6A12776539&dn=chitanka.info.epub.num-2022.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">EPUB с номера</a><br/>
+		</td>
+		<td>
+			<a href="magnet:?xt=urn:btih:1E09D97FD538AB2F205D7DBC331FC5AC7B52E500&dn=chitanka.info.mobi.num-2022.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">MOBI с номера</a><br/>
 		</td>
 	</tr>
 
