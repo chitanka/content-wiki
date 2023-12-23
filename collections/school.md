@@ -8,6 +8,7 @@ Title: Библиотека за ученика
 * [V клас](/collections/school/v-class)
 * [VI клас](/collections/school/vi-class)
 * [VII клас](/collections/school/vii-class)
+* [Национално външно оценяване](/collections/school/nvo)
 * [VIII клас](/collections/school/viii-class)
 * [IX клас](/collections/school/ix-class)
 * [X клас](/collections/school/x-class)
