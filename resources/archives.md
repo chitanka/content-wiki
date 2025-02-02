@@ -20,19 +20,19 @@ Title: Архиви
 
 	<tr valign="middle">
 		<td>
-			<b>обобщен архив до декември 2023 год. включително</b><br/>съдържа 50428 произведения
+			<b>обобщен архив до декември 2024 год. включително</b><br/>съдържа 52613 произведения
 		</td>
 		<td>
-			<a href="magnet:?xt=urn:btih:E70B9C50E61920C5B6FD5C08DBEE7E82C44E8BBF&dn=chitanka.info.fb2.num-2023.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">FB2 с номера</a><br/>
-			<a href="magnet:?xt=urn:btih:42A8ECDAC253FD770F0586E480A434E5528CB984&dn=chitanka.info.fb2.name-2023.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">FB2 с имена</a><br/>
+			<a href="magnet:?xt=urn:btih:5A11B4CDE444FF17E2EF7C69627CC7CC00B52675&dn=chitanka.info.fb2.num-2024.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">FB2 с номера</a><br/>
+			<a href="magnet:?xt=urn:btih:5CACACDA8E5FF3B59421647915CBC7C0B7878B73&dn=chitanka.info.fb2.name-2024.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">FB2 с имена</a><br/>
 		</td>
 		<td>
-			<a href="magnet:?xt=urn:btih:93214E5702A62C28E54F0B03AFBF975AEDD7EAB0&dn=chitanka.info.epub.num-2023.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">EPUB с номера</a><br/>
-			<a href="magnet:?xt=urn:btih:1E389F85C0C6E3BCC460F0A981BCCA4F913A799D&dn=chitanka.info.epub.name-2023.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">EPUB с имена</a><br/>
+			<a href="magnet:?xt=urn:btih:0D0D42509BA0CC9E32E4EC33CCD7285A41427BAA&dn=chitanka.info.epub.num-2024.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">EPUB с номера</a><br/>
+			<a href="magnet:?xt=urn:btih:9A3279BCA7CE0ABBD7A8178C3F73D5FDBFD75616&dn=chitanka.info.epub.name-2024.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">EPUB с имена</a><br/>
 		</td>
 		<td>
-			<a href="magnet:?xt=urn:btih:8F8CFAAAF4887B5E846403E0861DF984F254ADC7&dn=chitanka.info.mobi.num-2023.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">MOBI с номера</a><br/>
-			<a href="magnet:?xt=urn:btih:63FCD16C7A372583473AC59FA9B69CC6C986DEC0&dn=chitanka.info.mobi.name-2023.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">MOBI с имена</a><br/>
+			<a href="magnet:?xt=urn:btih:F650DCFD1ABE555081A46F4C00605E808DDEE509&dn=chitanka.info.mobi.num-2024.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">MOBI с номера</a><br/>
+			<a href="magnet:?xt=urn:btih:6BC57BF07479E4C17CC465708701B1954BDFF393&dn=chitanka.info.mobi.name-2024.12-cumulative.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">MOBI с имена</a><br/>
 		</td>
 	</tr>
 
