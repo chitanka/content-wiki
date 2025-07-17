@@ -124,6 +124,6 @@ Title: Модул „Диалогични прочити“
 ## Владо Даверов
 * [„Вчера“](/text/34007)
 ## Иван Андонов
-* [„Вчера“](https://www.vbox7.com/play:25ff30d9fa) (Филм)
+* [„Вчера“](https://www.youtube.com/watch?v=hjAXFtAwurs) (Филм)
 ## Милен Русков
-* „Възвишение“
+* [„Възвишение“](https://4eti.me/vazvishenie/)
