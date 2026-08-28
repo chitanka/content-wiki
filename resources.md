@@ -1,7 +1,7 @@
 Title: Ресурси
 
 * [Читанка на собствен сървър](/resources/own-server)
-* [Архиви](/resources/archives)
+* [Архиви](https://pechkov.chitanka.info/archives/)
 * [Проверител на SFB за грешки](https://tools.chitanka.info/sfb-check/)
 * [Пясъчник за игра със SFB](/sandbox)
 * [Генератор на инфоблокове за нови книги и произведения](https://tools.chitanka.info/infogen/)
